@@ -41,6 +41,10 @@ p {margin-bottom: 29px; padding-right: 30px;}
 #contact {padding: 30px; padding-top: 50px; padding-bottom: 50px;}
 a.social { text-decoration: underline; margin-right: 15px; }
 
+#imprint { background-color: #eee; padding: 30px; padding-top: 150px; }
+#imprint h2 { margin: 30px 0 10px 0; line-height: 1.5; font-size: 14px; text-decoration: underline;}
+
+
 @media (min-width: 1900px){
   body{font-size: 30px;}
 }
