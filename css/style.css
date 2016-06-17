@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Atlas Grotesk Web';
+  src: url('../fonts/AtlasGrotesk-Regular-Web.eot');
+  src: url('../fonts/AtlasGrotesk-Regular-Web.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/AtlasGrotesk-Regular-Web.woff2') format('woff2'),
+       url('../fonts/AtlasGrotesk-Regular-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+html{height: 100%;}
+body{ font-family: 'Atlas Grotesk Web'; font-weight: 400; font-style: normal; font-stretch: normal; font-size: 20px; height: 100%; }
+.container-fluid {height: 100%;}
+
+h1 { font-size: 20px; margin: 0; font-weight: 400; font-style: normal; font-stretch: normal;}
+h2 { font-size: 20px; margin: 0; font-weight: 400; font-style: normal; font-stretch: normal;}
+h3 { font-size: 14px; margin: 0 0 20px 0; font-weight: 400; font-style: normal; font-stretch: normal;}
+a, a:hover, a:active, a:focus{ text-decoration: none; color: #333; }
+em {font-style: normal; text-decoration: underline;}
+
+#nav { background-color: white; height: 100px; width: 100%; margin: 0;padding: 30px; line-height: 1.8; position: fixed; top: 0; left: 0; z-index: 2;}
+#landingpage { color: white; min-height: 100%; padding: 180px 30px 30px 30px; background: url("../img/background-02.jpg") no-repeat center center fixed; background-size: cover;}
+#landingpage ul {padding:0; margin-bottom: 50px; }
+#landingpage ul li {list-style-type: none; font-size: 40px; margin-bottom: 10px;}
+#landingpage h2 { text-decoration: underline; margin-bottom: 15px; margin-top: 40%;}
+a.ticketlink { display: block; text-align: center; margin-right: 30px;  background-color: transparent; border: 2px solid white; padding: 20px; color: white; text-decoration: none; margin-top: 50px; }
+a.ticketlink:hover{ background-color: white; color: black; }
+
+#about { min-height: 100%; padding: 30px; padding-top: 130px; padding-bottom: 50px; background-color: white; }
+.caption{ font-size: 16px; margin-top: 14px; margin-bottom: 40px; }
+p {margin-bottom: 29px; padding-right: 30px;}
+#images {padding-bottom: 100px;}
+
+#tickets{ background: url("../img/background-01.jpg") no-repeat center center fixed; background-size: cover; padding-top: 130px; padding-bottom: 150px;}
+.tito-wrapper {background: rgba(255, 255, 255, 0.5); font-family: 'Atlas Grotesk Web';}
+.tito-ticket-price span {font-size: inherit; }
+.tito-ticket-quantity span {line-height: 34px; }
+.tito-ticket-name {font-size: inherit; color: }
+
+#contact {padding: 30px; padding-top: 50px; padding-bottom: 50px;}
+a.social { text-decoration: underline; margin-right: 15px; }
+
+@media (min-width: 1900px){
+  body{font-size: 30px;}
+}
