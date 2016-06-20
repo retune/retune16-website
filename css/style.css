@@ -24,8 +24,8 @@ em {font-style: normal; text-decoration: underline;}
 #landingpage ul {padding:0; margin-bottom: 50px; }
 #landingpage ul li {list-style-type: none; font-size: 40px; margin-bottom: 10px;}
 #landingpage h2 { text-decoration: underline; margin-bottom: 15px; margin-top: 40%;}
-a.ticketlink { display: block; text-align: center; margin-right: 30px;  background-color: transparent; border: 2px solid white; padding: 20px; color: white; text-decoration: none; margin-top: 50px; }
-a.ticketlink:hover{ background-color: white; color: black; }
+a.ticketlink { text-align: center; margin-right: 30px;  background-color: white; border: 2px solid white; padding: 10px; color: black; text-decoration: none; margin-top: 50px; }
+a.ticketlink:hover{ text-decoration: underline; }
 
 #about { min-height: 100%; padding: 30px; padding-top: 130px; padding-bottom: 50px; background-color: white; }
 .caption{ font-size: 16px; margin-top: 14px; margin-bottom: 40px; }
