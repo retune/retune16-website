@@ -47,4 +47,6 @@ a.social { text-decoration: underline; margin-right: 15px; }
 
 @media (min-width: 1900px){
   body{font-size: 30px;}
+  .caption {font-size: 20px;}
+  .col-md-6{padding-right: 50px;}
 }
