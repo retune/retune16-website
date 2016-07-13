@@ -54,10 +54,6 @@ display: table; text-align: center;}
   text-align: center;
   width: 24vw;
   padding-top: 5px;
-  /*width: 24vw; height: 7.74vw;
-  left:0;
-  top:0;*/
-  /*position:absolute;*/
   -webkit-transform: rotate(-180deg);
   -moz-transform: rotate(-180deg);
   -ms-transform: rotate(-180deg);
@@ -68,10 +64,11 @@ display: table; text-align: center;}
 .social { font-size: 16px; position: fixed; width: 400px; text-align: left; left: -180px; bottom:215px; transform:rotate(-90deg); -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); }
 
 /* IMPRINT */
-#imprint { background-color: #f1f1f1; }
+#imprint { background-color: #f1f1f1; line-height: 1.4;}
 #imprint .container { float: left; margin-top: 100px; }
 #imprint .column { box-sizing: border-box; width: 50%; float: left; padding-right: 60px; padding-left: 40px; }
 #imprint p { margin-bottom: 20px; }
+#imprint span.getTickets { text-decoration: none;}
 
 @media (max-width: 800px) {
   #page-header { padding-top: 14px; height: 60px;}
@@ -87,4 +84,5 @@ display: table; text-align: center;}
   span.retune, span.festival, #section2 p { top: 100px; }
   #section3 p{ padding-right: 10px; }
   #section3 p:first-child{ padding-top: 105px; }
+  #imprint .column { width: 100%; padding-left: 10px;}
 }
