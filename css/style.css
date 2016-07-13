@@ -19,8 +19,8 @@ p { margin: 0; }
 #page-header { display: block; background: white; height: 46px; top: 0; left: 0; position: fixed; width: 100%; z-index: 9; padding-top: 26px; }
 #page-header h1{ display: block; position: absolute; font-size: 20px; left: 40px; padding: 0; margin: 0; line-height: normal; font-weight: normal; }
 #page-header h2{ display: block; position: absolute; left: 50%; font-size: 20px; padding: 0; margin: 0 0 0 40px; line-height: normal; font-weight: normal; }
-#page-header span.getTickets{ display: block; position: absolute; padding: 0; margin: 0 40px 0 0; font-size: 20px; right: 0; line-height: normal; }
-#page-header button.tito-tickets-button{ border: 0; padding: 0; color: black; background: transparent; cursor:pointer; }
+#page-header span.getTickets{ display: block; position: absolute; padding: 0; margin: 0 40px 0 0; font-size: 20px; right: 0; line-height: normal;text-decoration: underline; }
+#page-header button.tito-tickets-button{ border: 0; padding: 0; color: black; background: transparent; cursor:pointer; text-decoration: underline;}
 
 #section1{ color: black; font-size: 10vw; }
 span.retune { position: absolute; top: 120px; left: 40px; text-indent: -0.8vw; }
@@ -59,11 +59,11 @@ display: table; text-align: center;}
   top:0;*/
   /*position:absolute;*/
   -webkit-transform: rotate(-180deg);
-    -moz-transform: rotate(-180deg);
-    -ms-transform: rotate(-180deg);
-    -o-transform: rotate(-180deg);
-    transform: rotate(-180deg);
-  }
+  -moz-transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+}
 
 .social { font-size: 16px; position: fixed; width: 400px; text-align: left; left: -180px; bottom:215px; transform:rotate(-90deg); -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); }
 
@@ -76,11 +76,11 @@ display: table; text-align: center;}
 @media (max-width: 800px) {
   #page-header { padding-top: 14px; height: 60px;}
   #page-header h1, #page-header h2, span.retune { left: inherit; margin-left: 10px;  }
-  #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px}
+  #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px; font-size: 18px;}
   #section2, #section3 {padding-left: 10px;}
-  #page-header span.getTickets{ margin-right: 10px; }
+  #page-header span.getTickets{ margin-right: 10px; font-size: 18px; }
   #section3 { font-size: 20px; }
-  #tickets button.tito-tickets-button{ width: 200px; height: 65px;}
+  #tickets button.tito-tickets-button, #tickets button.tito-tickets-button:hover span{ width: 200px; height: 65px; }
   div#tickets { height: 65px; }
   #section3 h3 {font-size: 20px;}
   .social { transform:rotate(0deg); -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); left: 10px; bottom:5px; }
