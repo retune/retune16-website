@@ -71,11 +71,11 @@ display: table; text-align: center;}
 #imprint span.getTickets { text-decoration: none;}
 
 @media (max-width: 800px) {
-  #page-header { padding-top: 14px; height: 47px;}
+  #page-header { padding-top: 14px; height: 55px;}
   #page-header h1, #page-header h2, span.retune { left: inherit; margin-left: 10px;  }
-  #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px; font-size: 14px;}
+  #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px; font-size: 18px;}
   #section2, #section3 {padding-left: 10px;}
-  #page-header span.getTickets{ margin-right: 10px; font-size: 14px; }
+  #page-header span.getTickets{ margin-right: 10px; font-size: 18px; }
   #section3 { font-size: 20px; }
   #tickets button.tito-tickets-button, #tickets button.tito-tickets-button:hover span{ width: 200px; height: 65px; }
   div#tickets { height: 65px; }
@@ -85,4 +85,10 @@ display: table; text-align: center;}
   #section3 p{ padding-right: 10px; }
   #section3 p:first-child{ padding-top: 105px; }
   #imprint .column { width: 100%; padding-left: 10px;}
+}
+
+@media (max-width: 350px) {
+  #page-header { 14px; height: 47px;}
+  #page-header h1, #page-header h2 { font-size: 12px;}
+  #page-header span.getTickets{ font-size: 12px; }
 }
