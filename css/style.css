@@ -71,7 +71,7 @@ display: table; text-align: center;}
 #imprint span.getTickets { text-decoration: none;}
 
 @media (max-width: 800px) {
-  #page-header { padding-top: 14px; height: 55px;}
+  #page-header { padding-top: 14px; height: 60px;}
   #page-header h1, #page-header h2, span.retune { left: inherit; margin-left: 10px;  }
   #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px; font-size: 18px;}
   #section2, #section3 {padding-left: 10px;}
