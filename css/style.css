@@ -34,6 +34,9 @@ span.nextPage a, span.nextPage a:hover{ position: fixed; bottom: 20px; color: #c
 #section2 p{ position: absolute; top: 120px; padding: 0; line-height: 1.4; }
 
 #section3 { font-size: 3vw; padding-left: 40px; }
+
+#section3 a { text-decoration: underline; }
+#section3 a:hover { text-decoration: none; }
 #section3 p{ padding-right: 15vw; }
 #section3 h3 { font-size: 3vw; margin: 8vw 0 3vw 0; padding: 0; line-height: 1.2; font-weight: normal;}
 #section3 p { margin-bottom: 4vw;}
