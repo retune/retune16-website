@@ -28,12 +28,14 @@
   margin-bottom: 0;
   position: fixed;
   width: 100%;
+  z-index: 10;
   .container-fluid {
     padding-right: 0;
     padding-left: 0;
   }
 
   .navbar-header {
+    background-color: $white;
     button.navbar-toggle {
       float: left;
       border:0;
@@ -72,8 +74,12 @@
         display: inline-block;
         margin-left: 22px;
         padding: 10px 0;
-        &.active {
-          text-decoration: underline;
+        a {
+          color: $black;
+          padding:0;
+          &:active {
+            text-decoration: underline;
+          }
         }
         &:hover {
           cursor: pointer;

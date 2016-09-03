@@ -210,7 +210,8 @@ div#tickets {
   border: 0;
   margin-bottom: 0;
   position: fixed;
-  width: 100%; }
+  width: 100%;
+  z-index: 10; }
   .navbar .navbar-header {
     float: none; }
   .navbar .navbar-toggle {
@@ -226,28 +227,30 @@ div#tickets {
   .navbar .container-fluid {
     padding-right: 0;
     padding-left: 0; }
-  .navbar .navbar-header button.navbar-toggle {
-    float: left;
-    border: 0;
-    margin-right: 15px; }
-    .navbar .navbar-header button.navbar-toggle .icon-bar {
-      background-color: #000000; }
-    .navbar .navbar-header button.navbar-toggle:hover, .navbar .navbar-header button.navbar-toggle:focus {
-      background-color: #FFFFFF; }
-  .navbar .navbar-header .header-links-container {
-    display: table;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0; }
-    .navbar .navbar-header .header-links-container .header-title {
-      margin-top: 14px; }
-      .navbar .navbar-header .header-links-container .header-title:last-of-type {
-        padding-right: 10px; }
-      .navbar .navbar-header .header-links-container .header-title .tito-tickets-button {
-        background-color: white;
-        border: 0;
-        padding: 0;
-        text-decoration: underline; }
+  .navbar .navbar-header {
+    background-color: #FFFFFF; }
+    .navbar .navbar-header button.navbar-toggle {
+      float: left;
+      border: 0;
+      margin-right: 15px; }
+      .navbar .navbar-header button.navbar-toggle .icon-bar {
+        background-color: #000000; }
+      .navbar .navbar-header button.navbar-toggle:hover, .navbar .navbar-header button.navbar-toggle:focus {
+        background-color: #FFFFFF; }
+    .navbar .navbar-header .header-links-container {
+      display: table;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0; }
+      .navbar .navbar-header .header-links-container .header-title {
+        margin-top: 14px; }
+        .navbar .navbar-header .header-links-container .header-title:last-of-type {
+          padding-right: 10px; }
+        .navbar .navbar-header .header-links-container .header-title .tito-tickets-button {
+          background-color: white;
+          border: 0;
+          padding: 0;
+          text-decoration: underline; }
   .navbar .navbar-collapse {
     padding-left: 51px;
     border-top: 1px solid black; }
@@ -255,8 +258,11 @@ div#tickets {
       display: inline-block;
       margin-left: 22px;
       padding: 10px 0; }
-      .navbar .navbar-collapse .navbar-nav li.nav-item.active {
-        text-decoration: underline; }
+      .navbar .navbar-collapse .navbar-nav li.nav-item a {
+        color: #000000;
+        padding: 0; }
+        .navbar .navbar-collapse .navbar-nav li.nav-item a:active {
+          text-decoration: underline; }
       .navbar .navbar-collapse .navbar-nav li.nav-item:hover {
         cursor: pointer;
         text-decoration: underline; }
@@ -285,7 +291,8 @@ div#tickets {
       position: absolute;
       top: 0;
       height: 100%;
-      width: 100%; }
+      width: 100%;
+      z-index: 2; }
       .intro-text-container #background .intro-text span {
         font-size: 7em;
         display: block;
@@ -297,6 +304,29 @@ div#tickets {
           bottom: 0;
           width: 100%; }
 
+.about-section {
+  min-height: 100%;
+  padding: 70px 0px 0 60px;
+  font-size: 2em; }
+  .about-section p {
+    margin-bottom: 50px;
+    text-align: justify;
+    line-height: 1.4em; }
+
+.map-section {
+  height: 80%; }
+  .map-section #map {
+    height: 100%; }
+  .map-section .marker-legend-container {
+    padding: 20px 50px;
+    font-size: .8em; }
+    .map-section .marker-legend-container img, .map-section .marker-legend-container p {
+      float: left; }
+    .map-section .marker-legend-container img {
+      margin-right: 20px;
+      width: 30px;
+      height: 30px; }
+
 @media (max-width: 768px) {
   .intro-text-container #background .intro-text span {
     font-size: 4em; }
@@ -304,7 +334,16 @@ div#tickets {
       margin-top: 160px; }
     .intro-text-container #background .intro-text span.year {
       margin-top: 30px;
-      position: relative; } }
+      position: relative; }
+
+  .about-section {
+    min-height: 100%;
+    padding: 160px 0px 0 0;
+    font-size: 1em; }
+    .about-section p {
+      margin-bottom: 50px;
+      text-align: justify;
+      line-height: 1.4em; } }
 html, body {
   height: 100%; }
   html .main-container, body .main-container {

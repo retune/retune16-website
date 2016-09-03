@@ -7,6 +7,7 @@
       top:0;
       height: 100%;
       width: 100%;
+      z-index: 2;
       span {
         font-size: 7em;
         display: block;
@@ -25,6 +26,37 @@
   }
 }
 
+.about-section {
+  min-height: 100%;
+  padding: 70px 0px 0 60px;
+  font-size: 2em;
+  p {
+    margin-bottom: 50px;
+    text-align: justify;
+    line-height: 1.4em;
+  }
+}
+
+.map-section {
+  height: 80%;
+  #map {
+    height: 100%;
+  }
+  .marker-legend-container {
+    padding: 20px 50px;
+    img, p {
+      float:left;
+    }
+    img {
+      margin-right: 20px;
+      width: 30px;
+      height: 30px;
+    }
+    font-size: .8em;
+  }
+
+}
+
 @media (max-width: 768px) {
   .intro-text-container {
     #background {
@@ -41,5 +73,17 @@
         }
       }
     }
+  }
+
+  .about-section {
+    min-height: 100%;
+    padding: 160px 0px 0 0;
+    font-size: 1em;
+    p {
+      margin-bottom: 50px;
+      text-align: justify;
+      line-height: 1.4em;
+    }
+
   }
 }
