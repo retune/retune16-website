@@ -34,7 +34,7 @@
     button.navbar-toggle {
       float: left;
       border:0;
-      margin-right: 0;
+      margin-right: 15px;
       .icon-bar {
         background-color: $black;
       }
@@ -59,8 +59,17 @@
     padding-left: 51px;
     border-top: 1px solid black;
     .navbar-nav {
-      li {
+      li.nav-item {
         display: inline-block;
+        margin-left: 22px;
+        padding: 10px 0;
+        &.active {
+          text-decoration: underline;
+        }
+        &:hover {
+          cursor: pointer;
+          text-decoration: underline;
+        }
       }
     }
   }
@@ -76,6 +85,16 @@
       margin-top: 0 ;
       &:first-of-type {
         margin-top: 14px !important;
+      }
+    }
+  }
+  .navbar-collapse {
+    .navbar-nav {
+      li.nav-item {
+        display: block;
+        margin-left: 0 !important;
+        width: 100%;
+        text-align: center;
       }
     }
   }

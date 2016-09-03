@@ -226,7 +226,7 @@ div#tickets {
   .navbar .navbar-header button.navbar-toggle {
     float: left;
     border: 0;
-    margin-right: 0; }
+    margin-right: 15px; }
     .navbar .navbar-header button.navbar-toggle .icon-bar {
       background-color: #000000; }
     .navbar .navbar-header button.navbar-toggle:hover, .navbar .navbar-header button.navbar-toggle:focus {
@@ -243,8 +243,15 @@ div#tickets {
   .navbar .navbar-collapse {
     padding-left: 51px;
     border-top: 1px solid black; }
-    .navbar .navbar-collapse .navbar-nav li {
-      display: inline-block; }
+    .navbar .navbar-collapse .navbar-nav li.nav-item {
+      display: inline-block;
+      margin-left: 22px;
+      padding: 10px 0; }
+      .navbar .navbar-collapse .navbar-nav li.nav-item.active {
+        text-decoration: underline; }
+      .navbar .navbar-collapse .navbar-nav li.nav-item:hover {
+        cursor: pointer;
+        text-decoration: underline; }
 
 @media (max-width: 768px) {
   .header-links-container {
@@ -254,6 +261,12 @@ div#tickets {
       padding-left: 45px;
       margin-top: 0; }
       .header-links-container .header-title:first-of-type {
-        margin-top: 14px !important; } }
+        margin-top: 14px !important; }
+
+  .navbar-collapse .navbar-nav li.nav-item {
+    display: block;
+    margin-left: 0 !important;
+    width: 100%;
+    text-align: center; } }
 
 /*# sourceMappingURL=style.css.map */
