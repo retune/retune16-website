@@ -18,83 +18,72 @@
 		<meta property='fb:admins' content='1443104249'/>
 		<meta property='og:image' content='https://retune.de/festival/2016/img/retune-festival-og_4.png'/>
 
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/normalize.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/jquery.fullpage.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
+
     <script src="https://js.tito.io/v1" async></script>
   </head>
 
   <body>
-    <div id="page-header">
-      <h1><a href="#" class="top">Retune Festival 2016</a></h1>
-      <h2>Berlin, October 6-8</h2>
-      <span class="getTickets"><tito-button event="retune/retune-festival-2016">Get Tickets!</tito-button></span>
-      <span class="nextPage"><a href="#" id="moveSectionDown">▼</a></span>
-    </div>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+        <a class="navbar-brand" href="#">Brand</a>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
 
-    <div id="background">
-      <canvas id="backgroundCanvas" width="1200" height="800"></canvas>
-    </div>
-
-
-
-    <div id="fullpage">
-      <div class="section" id="section1">
-        <span class="retune">Retune</span>
-        <span class="festival">Festival</span>
-        <span class="year">16</span>
-        <!-- <h1>Retune Festival</h1> -->
-      </div>
-
-      <div class="section" id="section2">
-        <p>The Retune Festival is<br/>an experimental laboratory<br/>at the intersection<br/>of Art, Design and Technology.</p>
-      </div>
-
-      <div class="section" id="section3">
-        <p id="textTop">In its 4th edition, the Retune Festival transforms a school building from the past into a playground of the futures. The space will be turned into experimental design studios, workshops, lecture halls, and offline chatrooms.</p>
-        <p>It’s all about inspiration, experience, and exchange.<br/>A space for dialogues around the aesthetic-technological practices that are changing today’s society.</p>
-        <p>Exhibitions, talks, and workshops are clustered around four main themes: </p>
-
-        <h3 id="immersednarratives"># Immersed Narratives</h3>
-        <p>With the advent of affordable high end virtual reality headsets, content creators can immerse their audience in a way like never before. This opens up possibilities for new kinds of experiences, interactions and narration methods. The language of the medium has not yet been set and makes it an ideal playground for artists and explorers.</p>
-        <p>Within this track, the Retune Festival will explore the opportunities and pitfalls of narration in virtual and augmented reality.</p>
-
-        <h3 id="neuronalcreation"># Neuronal Creation</h3>
-        <p>Artificial Intelligence is invisibly changing our everyday interactions with computers. Artistic practice drags these technologies into the open. Working experimentally with these algorithms makes them a powerful tool to expand creative expression.</p>
-        <p>A worldwide community of coding artists mediates between research, industry practice and the wider public. The Retune Festival triggers a debate about these technologies’ implications on culture and society. </p>
-
-        <h3 id="networkedtransplantations"># Networked Transplantations</h3>
-        <p>Smart prosthesis seamlessly replace limbs and implantable RFID chips are widely sold in online shops. New senses extend our perception of the world, networked subcutaneous computers with subconscious interfaces will become part of our bodies.<br/>
-        Artists and pioneers are starting to explore those new ways of living with technology and open our eyes to new perspectives.</p>
-        <p>The Retune Festival gives stage to actors in this new field of body extensions, transhumanist practice and networked senses. Together we explore implications to ourselves and to society.</p>
-
-        <h3 id="creativeproduction"># Creative Production</h3>
-        <p>Times for creative minds to become creative producers have never been better. Artists and designers have been incorporating networked, interactive and sensor based technology in their works for decades. Now their experimental products create new impulses and resonate perfectly with a market that puts high value on the creatives’ core competences: individuality, design and experience.</p>
-        <p>The Retune Festival explores the way creative entrepreneurs get from prototype to serial production. What is needed to bring ideas not just on the streets, but on all the streets in every city?</p>
-
-        <p>Retune Main Venue: Glogauer Str. 16, 10999 Berlin, Germany</p>
-        <div id="tickets">
-          <tito-button event="retune/retune-festival-2016"><span class="text">Get Tickets!</span></tito-button>
         </div>
 
-        <p style="text-decoration: line-through;">Want to contribute? <a href="opencall/">Submit a proposal</a><br/>before August 28th.</p>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li>Themes</li>
+            <li>Speakers</li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
 
-        <p style="text-decoration: line-through;">Empty Pockets? Apply as a volunteer through our ticketshop.</p>
 
-        <p>Newsletter? <a href="http://eepurl.com/oAiGz" target="_blank">Yes!</a></p>
+    <div class="container-fluid">
+      <div id="background">
+        <canvas id="backgroundCanvas" width="1200" height="800"></canvas>
+      </div>
 
-        <p>Questions?  yo /at/ retune.de<br/> or join our community on <a href="http://slack.retune.de" target="_blank">Slack</a></p>
-
-        <p>Legal? <a href="imprint.html">Imprint</a>.</p>
+      <div class="row">
+        <div class="col-xs-12">
+          <span class="">Retune</span>
+          <span class="">Festival</span>
+          <span class="">16</span>
+          <!-- <h1>Retune Festival</h1> -->
         </div>
+      </div>
+
+      <div>
+        <p>The Retune Festival transforms a school building from the past into a playground of the futures. The space will be turned into experimental design studios, workshops, lecture halls, and offline chatrooms.</p>
+
+        <p>Exhibitions, talks, and workshops are clustred around four main themes:<br># Immersed Narratives<br># Neuronal Creation<br># Networked Transplantations<br># Creative Production</p>
+        <p>Lorem ipsum Sit enim ex fugiat consectetur occaecat esse esse fugiat elit labore enim ullamco ex et do exercitation occaecat Ut enim reprehenderit irure enim esse dolor eu enim enim fugiat sint velit aute laboris aliquip Excepteur aliquip qui dolore exercitation sunt mollit pariatur veniam cillum ut ad dolor consectetur ut ullamco minim enim exercitation dolore enim adipisicing in ullamco dolore dolor et sint ullamco pariatur dolore veniam tempor enim id aliqua ut dolor proident nulla culpa eiusmod aute in est consequat ea reprehenderit enim ad exercitation irure nulla deserunt aliqua magna culpa culpa eu quis aliqua labore magna nisi velit cupidatat magna quis id tempor in non eiusmod deserunt eiusmod elit Ut ex dolor occaecat ea adipisicing nisi aute ut magna cillum ullamco in ut do ea tempor amet culpa officia dolore occaecat esse quis ut adipisicing magna tempor sed incididunt.</p>
+        <p>Lorem ipsum Sit enim ex fugiat consectetur occaecat esse esse fugiat elit labore enim ullamco ex et do exercitation occaecat Ut enim reprehenderit irure enim esse dolor eu enim enim fugiat sint velit aute laboris aliquip Excepteur aliquip qui dolore exercitation sunt mollit pariatur veniam cillum ut ad dolor consectetur ut ullamco minim enim exercitation dolore enim adipisicing in ullamco dolore dolor et sint ullamco pariatur dolore veniam tempor enim id aliqua ut dolor proident nulla culpa eiusmod aute in est consequat ea reprehenderit enim ad exercitation irure nulla deserunt aliqua magna culpa culpa eu quis aliqua labore magna nisi velit cupidatat magna quis id tempor in non eiusmod deserunt eiusmod elit Ut ex dolor occaecat ea adipisicing nisi aute ut magna cillum ullamco in ut do ea tempor amet culpa officia dolore occaecat esse quis ut adipisicing magna tempor sed incididunt.</p>
+        <p>Lorem ipsum Sit enim ex fugiat consectetur occaecat esse esse fugiat elit labore enim ullamco ex et do exercitation occaecat Ut enim reprehenderit irure enim esse dolor eu enim enim fugiat sint velit aute laboris aliquip Excepteur aliquip qui dolore exercitation sunt mollit pariatur veniam cillum ut ad dolor consectetur ut ullamco minim enim exercitation dolore enim adipisicing in ullamco dolore dolor et sint ullamco pariatur dolore veniam tempor enim id aliqua ut dolor proident nulla culpa eiusmod aute in est consequat ea reprehenderit enim ad exercitation irure nulla deserunt aliqua magna culpa culpa eu quis aliqua labore magna nisi velit cupidatat magna quis id tempor in non eiusmod deserunt eiusmod elit Ut ex dolor occaecat ea adipisicing nisi aute ut magna cillum ullamco in ut do ea tempor amet culpa officia dolore occaecat esse quis ut adipisicing magna tempor sed incididunt.</p>
+        <p>Lorem ipsum Sit enim ex fugiat consectetur occaecat esse esse fugiat elit labore enim ullamco ex et do exercitation occaecat Ut enim reprehenderit irure enim esse dolor eu enim enim fugiat sint velit aute laboris aliquip Excepteur aliquip qui dolore exercitation sunt mollit pariatur veniam cillum ut ad dolor consectetur ut ullamco minim enim exercitation dolore enim adipisicing in ullamco dolore dolor et sint ullamco pariatur dolore veniam tempor enim id aliqua ut dolor proident nulla culpa eiusmod aute in est consequat ea reprehenderit enim ad exercitation irure nulla deserunt aliqua magna culpa culpa eu quis aliqua labore magna nisi velit cupidatat magna quis id tempor in non eiusmod deserunt eiusmod elit Ut ex dolor occaecat ea adipisicing nisi aute ut magna cillum ullamco in ut do ea tempor amet culpa officia dolore occaecat esse quis ut adipisicing magna tempor sed incididunt.</p>
+        <p>Lorem ipsum Sit enim ex fugiat consectetur occaecat esse esse fugiat elit labore enim ullamco ex et do exercitation occaecat Ut enim reprehenderit irure enim esse dolor eu enim enim fugiat sint velit aute laboris aliquip Excepteur aliquip qui dolore exercitation sunt mollit pariatur veniam cillum ut ad dolor consectetur ut ullamco minim enim exercitation dolore enim adipisicing in ullamco dolore dolor et sint ullamco pariatur dolore veniam tempor enim id aliqua ut dolor proident nulla culpa eiusmod aute in est consequat ea reprehenderit enim ad exercitation irure nulla deserunt aliqua magna culpa culpa eu quis aliqua labore magna nisi velit cupidatat magna quis id tempor in non eiusmod deserunt eiusmod elit Ut ex dolor occaecat ea adipisicing nisi aute ut magna cillum ullamco in ut do ea tempor amet culpa officia dolore occaecat esse quis ut adipisicing magna tempor sed incididunt.</p>
       </div>
     </div> <!-- /fullpage -->
 
     <div class="social"><a href="https://www.facebook.com/retuneberlin" target="_blank" target="_blank">Facebook</a> • <a href="https://twitter.com/retuneberlin" target="_blank">Twitter</a> • <a href="http://instagram.com/retuneberlin" target="_blank">Instagram</a> • <a href="http://eepurl.com/oAiGz" target="_blank">Newsletter</a> • <a href="http://slack.retune.de" target="_blank">Slack</a></div>
 
-    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
     <script type="text/javascript" src="js/scrolloverflow.js"></script>
     <script type="text/javascript" src="js/jquery.fullpage.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
     <!-- fullpage js setup -->
   	<script type="text/javascript">

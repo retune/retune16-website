@@ -1,0 +1,18 @@
+{
+  "name": "retune-16-website",
+  "homepage": "www.retune.de",
+  "authors": [
+    "Emanuele Libralato <e.libralato@gmail.com>"
+  ],
+  "description": "Website for retune 16",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
