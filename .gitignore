@@ -4,6 +4,6 @@ node_modules/
 dist/
 **/Icon
 css/main.css
-style.css
-style.min.css
-style.css.map
+css/style.css
+css/style.min.css
+css/style.css.map
