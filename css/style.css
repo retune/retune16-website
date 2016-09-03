@@ -207,7 +207,10 @@ div#tickets {
 .navbar {
   background-color: #FFFFFF;
   border-radius: 0;
-  border: 0; }
+  border: 0;
+  margin-bottom: 0;
+  position: fixed;
+  width: 100%; }
   .navbar .navbar-header {
     float: none; }
   .navbar .navbar-toggle {
@@ -272,6 +275,40 @@ div#tickets {
     display: block;
     margin-left: 0 !important;
     width: 100%;
-    text-align: center; } }
+    text-align: center;
+    padding: 5px 0 !important; } }
+.intro-text-container {
+  height: 100%; }
+  .intro-text-container #background {
+    position: relative; }
+    .intro-text-container #background .intro-text {
+      position: absolute;
+      top: 0;
+      height: 100%;
+      width: 100%; }
+      .intro-text-container #background .intro-text span {
+        font-size: 7em;
+        display: block;
+        text-align: center; }
+        .intro-text-container #background .intro-text span.title {
+          margin-top: 80px; }
+        .intro-text-container #background .intro-text span.year {
+          position: absolute;
+          bottom: 0;
+          width: 100%; }
+
+@media (max-width: 768px) {
+  .intro-text-container #background .intro-text span {
+    font-size: 4em; }
+    .intro-text-container #background .intro-text span.title {
+      margin-top: 160px; }
+    .intro-text-container #background .intro-text span.year {
+      margin-top: 30px;
+      position: relative; } }
+html, body {
+  height: 100%; }
+  html .main-container, body .main-container {
+    height: 100%;
+    overflow-y: scroll; }
 
 /*# sourceMappingURL=style.css.map */

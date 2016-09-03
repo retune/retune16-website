@@ -1,0 +1,45 @@
+.intro-text-container {
+  height: 100%;
+  #background {
+    position: relative;
+    .intro-text {
+      position: absolute;
+      top:0;
+      height: 100%;
+      width: 100%;
+      span {
+        font-size: 7em;
+        display: block;
+        text-align: center;
+        &.title {
+          margin-top: 80px;
+        }
+        &.year {
+          position: absolute;
+          bottom: 0;
+          width: 100%;
+        }
+
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-text-container {
+    #background {
+      .intro-text {
+        span {
+          font-size: 4em;
+          &.title {
+            margin-top: 160px;
+          }
+          &.year {
+            margin-top: 30px;
+            position: relative;
+          }
+        }
+      }
+    }
+  }
+}
