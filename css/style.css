@@ -240,6 +240,11 @@ div#tickets {
       margin-top: 14px; }
       .navbar .navbar-header .header-links-container .header-title:last-of-type {
         padding-right: 10px; }
+      .navbar .navbar-header .header-links-container .header-title .tito-tickets-button {
+        background-color: white;
+        border: 0;
+        padding: 0;
+        text-decoration: underline; }
   .navbar .navbar-collapse {
     padding-left: 51px;
     border-top: 1px solid black; }
