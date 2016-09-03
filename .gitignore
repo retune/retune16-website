@@ -3,3 +3,7 @@ node_modules/
 .sass-cache/
 dist/
 **/Icon
+css/main.css
+style.css
+style.min.css
+style.css.map
