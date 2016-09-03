@@ -331,7 +331,16 @@ div#tickets {
       height: 30px; }
 
 .footer {
-  background-color: #EEEEEE; }
+  background-color: #EEEEEE;
+  padding: 150px 25px 25px 25px; }
+  .footer .sponsor-section {
+    border-top: 1px solid #000000;
+    margin-bottom: 100px; }
+    .footer .sponsor-section h2 {
+      font-size: 1em;
+      margin-bottom: 30px; }
+    .footer .sponsor-section img {
+      width: 100px; }
 
 @media (max-width: 768px) {
   .intro-text-container #background .intro-text span {
