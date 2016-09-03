@@ -314,7 +314,10 @@ div#tickets {
     line-height: 1.4em; }
 
 .map-section {
-  height: 80%; }
+  height: 80%;
+  min-height: 80%;
+  margin-bottom: 30px;
+  overflow: auto; }
   .map-section #map {
     height: 100%; }
   .map-section .marker-legend-container {
@@ -326,6 +329,9 @@ div#tickets {
       margin-right: 20px;
       width: 30px;
       height: 30px; }
+
+.footer {
+  background-color: #EEEEEE; }
 
 @media (max-width: 768px) {
   .intro-text-container #background .intro-text span {

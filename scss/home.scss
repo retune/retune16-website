@@ -39,6 +39,9 @@
 
 .map-section {
   height: 80%;
+  min-height: 80%;
+  margin-bottom: 30px;
+  overflow: auto;
   #map {
     height: 100%;
   }
@@ -54,7 +57,11 @@
     }
     font-size: .8em;
   }
+}
 
+
+.footer {
+  background-color: $bg-grey;
 }
 
 @media (max-width: 768px) {
