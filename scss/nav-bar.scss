@@ -52,17 +52,25 @@
       width: 100%;
       margin-left: 0;
       margin-right: 0;
+      p {
+        display: inline-block;
+      }
       .header-title {
         margin-top: 14px;
         &:last-of-type {
           padding-right: 10px;
         }
-        .tito-tickets-button {
-          background-color: white;
-          border:0;
-          padding: 0;
-          text-decoration: underline;
+        &.tito-container{
+          position: absolute;
+          right: 15px;
+          .tito-tickets-button {
+            background-color: white;
+            border:0;
+            padding: 0;
+            text-decoration: underline;
+          }
         }
+
       }
     }
   }
@@ -92,25 +100,51 @@
 
 
 @media (max-width: 768px ) {
-  .header-links-container {
-    padding-bottom: 10px;
-    .header-title {
-      text-align: center;
-      padding-left: 45px;
-      margin-top: 0 ;
-      &:first-of-type {
-        margin-top: 14px !important;
+  .navbar {
+
+
+    .navbar-header {
+      height: 110px;
+      .header-links-container {
+        display: table;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        .info-container {
+          .header-title {
+            margin-top: 0;
+          }
+
+        }
+        .header-title {
+          display: block;
+          text-align: left;
+          padding-left: 55px;
+
+          &.tito-container{
+            position: relative ;
+            right: 0 ;
+
+            .tito-tickets-button {
+              background-color: white;
+              border:0;
+              padding: 0;
+              text-decoration: underline;
+            }
+          }
+        }
       }
     }
-  }
-  .navbar-collapse {
-    .navbar-nav {
-      li.nav-item {
-        display: block;
-        margin-left: 0 !important;
-        width: 100%;
-        text-align: center;
-        padding: 5px 0 !important;
+    .navbar-collapse {
+      padding-left: 0;
+      .navbar-nav {
+        li.nav-item {
+          display: block;
+          margin-left: 0 ;
+          width: 100%;
+          text-align: center;
+          padding: 5px 0 ;
+        }
       }
     }
   }

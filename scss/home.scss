@@ -11,17 +11,17 @@
       span {
         font-size: 7em;
         display: block;
-        text-align: center;
         z-index:3;
         &.title {
           margin-top: 80px;
         }
-        &.year {
+
+      }
+      .year {
           position: absolute;
           bottom: 0;
-          width: 100%;
+
         }
-      }
     }
   }
 }
@@ -79,15 +79,18 @@
   .intro-text-container {
     #background {
       .intro-text {
+        padding-top: 160px;
         span {
+          text-align: left;
           font-size: 4em;
-          &.title {
-            margin-top: 160px;
+          &.title:first-child {
+            margin-top: 0px;
           }
-          &.year {
-            margin-top: 30px;
-            position: relative;
-          }
+
+        }
+        .year {
+          //margin-top: 30px;
+          position: relative;
         }
       }
     }
