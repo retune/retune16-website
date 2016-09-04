@@ -12,6 +12,7 @@
       z-index: 100;
       &:hover {
         text-decoration: underline;
+        cursor: pointer;
       }
     }
   }
@@ -19,6 +20,7 @@
 
 .speakers {
   padding:60px;
+  margin-bottom: 250px;
   overflow: hidden;
   .speaker-card {
     margin-bottom: 30px;
