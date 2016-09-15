@@ -1,0 +1,694 @@
+{"speakers":[
+    {
+      "firstName":"Karim Ben",
+      "lastName":"Khelifa",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Karim Ben Khelifa, 44, is an award winning photojournalist who has freelanced regularly for Time, Vanity Fair, Le Monde, Stern, The New York Times Magazine and dozens of others.</p><p>Karim is widely known for his coverage of the Middle East conflicts and troubles, especially the Iraq and Afghan wars, where he covered the insurgent sides. He has worked in more than 80 countries and territories and has had exhibition on four continents.</p><p>In the academic years of 2015/17, he will be a visiting Artist at the Center for Art, Science and Technology as well as a fellow at the Imagination, Computation and Expression Lab, both at the MIT.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Karim Ben Khelifa",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"By using VR tools, the photographer Karim Ben Khelifa challenges traditional media perceptions of war.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.theenemyishere.org", "name":"theenemyishere.org"}
+      ],
+      "social":[
+        {"url":"www.instagram.com/karimbenkhelifa", "name":"instagram.com/karimbenkhelifa"},
+        {"url":"www.twitter.com/kbenk", "name":"twitter.com/kbenk"},
+        {"url":"www.facebook.com/zanziben", "name":"facebook.com/zanziben"}
+      ]
+    },
+    {
+      "firstName":"Dries",
+      "lastName":"Depoorter",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Assembling, sharing and experimenting with private data of himself and random people found on the internet, digital artist Dries Depoorter tackles in a thought-provoking way issues like social identity, big data sharing, encryption and (the lack of) protection of our online privacy.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Dries Depoorter.",
+            "credit":""
+          },
+          {
+            "extension":"png",
+            "caption":"In a thought-provoking way, the artist questions our online personality.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Other subjects he tackles are privacy and surveillance, always present in his works.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"www.driesdepoorter.be", "name":"driesdepoorter.be"}
+      ],
+      "social":[
+        {"url":"www.twitter.com/driesdepoorter", "name":"twitter.com/driesdepoorter"},
+        {"url":"www.facebook.com/depoorterdries", "name":"facebook.com/depoorterdries"},
+        {"url":"www.instagram.com/driesdepoorter", "name":"instagram.com/driesdepoorter"},
+        {"url":"www.vimeo.com/driesdepoorter", "name":"vimeo.com/driesdepoorter"}
+      ]
+    },
+    {
+      "firstName":"Ryoichi",
+      "lastName":"Kurokawa",
+      "session":"[unfold.alt]",
+      "theme":"# Exhibition",
+      "bio":"Japanese artist Ryoichi Kurokawa (b. 1978, Osaka, Japan) uses various media - video, installation, recording and live performances - in order to produce stunning audio-visual sound pieces which he has been pioneering and presenting internationally since 1999. He describes his works as time-based sculptures and considers sound and image as a single unit. His works are literally compositions - symphonies of sounds imagined and produced as well as recorded - that, in combination with video material and computer generated aesthetics, change how the spectator views the familiar.</p><p>Ryoichi Kurokawa invents and presents an audiovisual language where complexity and simplicity alternate and combine in a fascinating synthesis.</p><p>Ryoichi Kurokawa lives and works in Berlin, Germany.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Ryoichi Kurokawa",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Still image from the installation \"Unfold\", in which Ryoichi takes the audience on an audiovisual journey through star formation.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.ryoichikurokawa.com", "name":"ryoichikurokawa.com"}
+      ],
+      "social":[
+        {"url":"https://vimeo.com/ryoichikurokawa/videos", "name":"vimeo.com/ryoichikurokawa"}
+      ]
+    },
+
+    {
+      "firstName":"BeAnotherLab",
+      "lastName":"Berlin",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"BeAnotherLab Berlin is a newly formed community node of BeAnotherLab which met during Science Hack Day Berlin, where artists, designers, and neuroscientists came together to devise scenarios that speculated on the implications of sharing subjective experiences. BeAnotherLab Berlin explores meaningful applications for embedded technologies across emerging spatial contexts.</p><p>BeAnotherLab is an international interdisciplinary art collective formed in 2012 that investigates, reproduces and communicates individual subjective experiences to create bonding and empathy between people. BeAnotherLab’s work questions and subverts hierarchies between different ways of knowing, namely art, science and technology; instead approaching these as complementary, overlapping bodies of knowledge.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"BeAnotherLab",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"BeAnotherLab has created a series of experiences for a variety of contexts, including conflict resolution, empathy, physical rehabilitation, art, and neuroscientific research.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The group uses technology in novel ways, seeing it as a means for social relations rather than social isolation.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Their work is developed under a human-centered protocol, working together with communities towards solving a particular problem.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The lab investigates under a model of distributed research and development, using low-budget digital technologies that can be reproduced, recreated and documented by the community.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://beanotherlab.org/?s=be+another+lab+berlin+science+hack+day", "name":"beanotherlab.org"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/beanotherlab", "name":"twitter.com/beanotherlab"},
+        {"url":"https://www.facebook.com/Beanotherlab/", "name":"facebook.com/Beanotherlab"},
+        {"url":"https://vimeo.com/beanotherlab", "name":"vimeo.com/beanotherlab"}
+      ]
+    },
+    {
+      "firstName":"Tebjan",
+      "lastName":"Halm",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Tebjan Halm has studied mathematics and computer science and is closely related to the vvvv group as a core developer since 2004.</p><p>He also does contract work as software consultant and developer of media projects for several agencies in Europe.",
+      "images":[
+          {
+            "extension":"png",
+            "caption":"Tebjan Halm.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Deeply involved with the core group of the vvvv project, Tebjan uses this hybrid visual/textual live-programming environment in his work.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"vvvv can be used to create VR experiences.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Besides its own visual language, the environment is also host to the two textual languages hlsl and c#.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"It’s main applications are 2D/3D animation, multiscreen setups, motion graphics, projection mapping, data visualisation, physical computing, sound and computer vision.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://vvvv.org/", "name":"vvvv.org"}
+      ],
+      "social":[
+        {"url":"https://www.facebook.com/tebjan", "name":"facebook.com/tebjan"}
+      ]
+    },
+
+    {
+      "firstName":"Anrick",
+      "lastName":"Bregman",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Anrick is a Virtual Reality and Interactive Filmmaker. He is inspired equally by cinema and games, and his work combines storytelling and technology.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Anrick Bregman",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Anrick worked along with Lexus and Team One to create \"Elevate\", a cinematic VR experience.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Still from \"Storm\", a VR survival experience created by UNIT9.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Teaming up with Water.org and Stella Artois, \"Buy a Lady a Drink\" is a 360ª split-screen VR film conceived for a charity campaign.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.anrick.com", "name":"anrick.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/anrick", "name":"twitter.com/anrick"}
+      ]
+    },
+
+    {
+      "firstName":"Moon",
+      "lastName":"Ribas",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"Moon Ribas is a Catalan contemporary choreographer and the co-founder of the Cyborg Foundation, an international organisation that aims to help people become cyborgs, defend cyborg rights and promote cyborgism as an artistic and social movement. Since 2007 Moon has been experimenting with different cybernetics devices that allow her to perceive movement in a deeper way. Moon's main research consists in developing the seismic sense, perceiving the movement of real-time earthquakes all around the world, small as 1 in Richter scale. Moon then translates this new sense on stage, her main piece is called Waiting for Earthquakes, a piece where she stands waiting for an earthquake to take place, when this happen she moves according to the intensity of the earthquake, so if there are no earthquakes there will be no dance.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Moon Ribas.",
+            "credit":"Hector Adalid"
+          }
+        ],
+      "websites":[
+        {"url":"http://www.cyborgarts.com", "name":"cyborgarts.com"}
+      ],
+      "social":[
+        {"url":"https://www.instagram.com/moonribas/", "name":"instagram.com/moonribas/"}
+      ]
+    },
+
+    {
+      "firstName":"Memo",
+      "lastName":"Akten",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Memo Akten is an artist from Istanbul, based in London, UK. His work explores the collisions between nature, science, technology, culture, ethics, ritual, tradition and religion. Combining critical and conceptual approaches with investigations into form, movement and sound he creates data dramatizations of natural and anthropogenic processes. He studies and works with complex systems, behaviour, algorithms and software; and collaborates across many disciplines spanning video, sound, light, dance, software, online works, installations and performances. Alongside his practice, he is currently working towards a PhD at Goldsmiths University of London in artificial intelligence and artistic, expressive human-machine interaction.</p><p>Akten received the Prix Ars Electronic Golden Nica in 2013 for his collaboration with Quayola, ‘Forms’. Past exhibitions and performances include the Victoria & Albert Museum, London; Royal Opera House, London; Garage Center for Contemporary Culture, Moscow; La Gaîté lyrique, Paris; Holon Design Museum, Israel and the EYE Film Institute, Amsterdam.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Memo Akten",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Simple Harmonic Motion #12, presented at the Royal Northern College of Music, is a live performance for 16 percussionists and light.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.memo.tv", "name":"memo.tv"}
+      ],
+      "social":[
+        {"url":"http://www.twitter.com/memotv", "name":"twitter.com/memotv"}
+      ]
+    },
+
+    {
+      "firstName":"Mario",
+      "lastName":"Klingemann",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Artist, Coder, Data Collector, Archivist, Speaker, Obsessive Compulsive Orderer, Machine Learning Artist in residence @googleart.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Mario Klingemann",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Through original pieces and unexpected findings, Mario makes the viewer rethink the meanings and possibilities of digital media.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://mario-klingemann.tumblr.com", "name":"mario-klingemann.tumblr.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/quasimondo", "name":"twitter.com/quasimondo"},
+        {"url":"https://www.flickr.com/photos/quasimondo/", "name":"flickr.com/photos/quasimondo"},
+        {"url":"https://www.instagram.com/quasimondo", "name":"instagram.com/quasimondo"}
+      ]
+    },
+
+    {
+      "firstName":"KRM",
+      "lastName":"",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"We’re a team of three interaction designers based in Berlin – David Kaltenbach, Lucas Rex and Maximilian Mahal. All three of us have a background in Product Design and are currently enrolled as Interaction Design Master students at Weißensee Academy of Art Berlin. Shortcut was developed in cooperation with Ottobock and Fab Lab Berlin.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"David Kaltenbach, Lucas Rex and Maximilian Mahal are KRM.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Shortcut is an add-on for myoelectric prostheses.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"A digital wristband translates phantom hand gestures and planar movements into a wireless computer control.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"It combines the signals from the sensors in the prostheses with an optical sensor and connects via Bluetooth to a computer to perform as a HID.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Thanks to a user-centered design approach, the controls can be learned quickly and intuitively.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The wristbands include different circumferences as well as different colors and potentially materials to match user needs and individual taste.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://digital-prosthesis.de", "name":"digital-prosthesis.de"}
+      ],
+      "social":[
+      ]
+    },
+
+    {
+      "firstName":"IN VR",
+      "lastName":"",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Sönke Kirchhof is member of FKTG and the 3D Guild. He studied political sience in Hamburg and Film – and TV Production at Filmuniversität Babelsberg. Sönke works in the fields of VR, stereoscopic filmmaking, VFX and CGI Postproduction as well as Research and Development in arts and technology since more than 15 years. At INVR.SPACE he is in charge of all business related operations.</p><p>Philipp Wenning has studied Film- and TV directing at FAMU Prague and editing at the Filmuniversity Potsdam Babelsberg. Directing his first narrative 180° panorama film \"The Imagonaut\" (premiere: Berlinale Talents International Filmfestival 2014) he startet to think outside the rectangular frame following up with \"The Future of VR\" a semi-interactive 360° interviewfilm which was part of the Kaleidoscope World Tour 2015/16.<br/>At INVR.SPACE he is responsible for developing narrative concepts in Virtual Reality and creative postproduction workflows for our custom built camerasystems.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Sönke Kirchhof",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Philipp Wenning.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"IN VR is a Virtual Reality Full Service Production Studio.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"www.invr.space", "name":"invr.space"}
+      ],
+      "social":[
+        {"url":"https://www.facebook.com/invr.space/", "name":"facebook.com/invr.space"}
+      ]
+    },
+
+    {
+      "firstName":"Ross",
+      "lastName":"Goodwin",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Ross Goodwin is a creative technologist, artist, hacker, data scientist, and former White House ghostwriter. He employs machine learning, natural language processing, and other computational tools to realize new forms and interfaces for written language.</p><p>His work has been discussed in the New York Times, the Chicago Tribune, CBS News, the Financial Times, the Guardian, the Globe and Mail, Ars Technica, VICE Motherboard, Gizmoto, Engadget, TechCrunch, CNET, Forbes, Slate, Fast Company, Huffington Post, Mashable, Fusion, Quartz, PetaPixel, and other publications. He has exhibited or spoken at the International Documentary Film Festival DocLab, the TriBeCa Film Festival Interactive Showcase, the International Center of Photography, Phi Centre in Montreal, Gray Area in San Francisco, the MIT Media Lab, Maker Faire, Molasses Books in Bushwick, and other venues.</p><p>Ross earned his undergraduate degree in Economics from MIT in 2009, and his graduate degree from NYU ITP in May 2016.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Ross Goodwin",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"word.camera (v1.0), an instant image-to-text camera: built with a Raspberry Pi, digital camera module, and thermal printer inside a broken Mamiya TLR film camera.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"Camera, Compass, Clock\": a collection of \"Narrated Reality\" devices that narrate images, location, and time respectively using machine intelligence.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The primary internal components of each device in the Camera, Compass, Clock series: an Nvidia Jetson TK1 board (essentially a Raspberry Pi with a GPU) for computation, and a Datamax O'Neil MicroFlash 4T wide-format thermal printer for receiving narrative output.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Still from \"Sunspring\", a short science-fiction film entirely written by an AI. Ross was the writer of the writer: he programmed the AI that spontaneously called himself Benjamin.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://rossgoodwin.com", "name":"rossgoodwin.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/rossgoodwin", "name":"twitter.com/rossgoodwin"},
+        {"url":"https://www.instagram.com/rossssssssssss/", "name":"instagram.com/rossssssssssss/"},
+        {"url":"https://vimeo.com/rossgoodwin", "name":"vimeo.com/rossgoodwin"},
+        {"url":"https://medium.com/@rossgoodwin/", "name":"medium.com/@rossgoodwin/"}
+      ]
+    },
+    {
+      "firstName":"Daniel",
+      "lastName":"Irrgang",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Daniel Irrgang is research assistant, focus: media theory, and assistant to the president of the Karlsruhe University of Arts and Design, Siegfried Zielinski. In 2011 he graduated with an M.A. in Media Studies. Currently, he is writing his doctoral thesis about diagrammatics. Daniel is part of the research project Archaeology/Variantology of the Media (co-editor of vol. 4 and 5 of \"Variantology – On Deep Time Relations of Arts, Sciences and Technologies\" and of the German anthology). Together with changing co-editors, he publishes the proceedings of the Forum on the Genealogy of MediaThinking, initialised by Siegfried Zielinski, with guests like Boris Groys, Geert Lovink, Hans Belting, or VALIE EXPORT. He is co-editor (with Siegfried Zielinski and Marcel René Marburger) of the series International Flusser Lectures and co-editor (with Siegfried Zielinski and Peter Weibel) of the 3-lingual critical dictionary \"Flusseriana – An Intellectual Toolbox\", a collection of texts by over 100 authors.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Daniel Irrgang",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Detail of the 3-lingual dictionary \"Flusseriana – An Intellectual Toolbox\".",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Flyer of the series International Flusser Lectures.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Cover of \"Flusseriana – An Intellectual Toolbox\", a 3-lingual dictionary that recollects the texts of over 100 authors. Daniel co-edited it with Siegfried Zielinski and Peter Weibel.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://gwk.udk-berlin.de/personen/irrgang/", "name":"gwk.udk-berlin.de/personen/irrgang"}
+      ],
+      "social":[
+      ]
+    },
+
+    {
+      "firstName":"Theresa",
+      "lastName":"Schubert",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Theresa Schubert is a post-media artist, researcher and curator at the intersection of art, science and its social impact. She studied Media Art & Design at the Bauhaus-University Weimar. She investigates the role of creativity and collaboration from a post-human perspective. Her research stems from the areas of biological-based art, digital art and DIY practices and addresses topics of self-organisation, randomness, morphology and pattern generation. Her works combine audiovisual and hybrid media to immersive installations or site-specific interventions whereas she treats nature's phenomena not only as inspiration but as a material and critical process.</p><p>Her works have been shown at Ars Electronica Linz, ArtLaboratory Berlin, Arge Kultur Salzburg, KIBLA Maribor, KW Kunstwerke Berlin, Newcastle Region Art Gallery, Electrofringe Festival, Istanbul Biennale, European Media Art Festival, etc. She is co-editor of the book \"Experiencing the Unconventional. Science in Art\" and curator of the interdisciplinary conference \"Inoculum – Connecting the Other\".",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Theresa Schubert",
+            "credit":"Theresa Schubert"
+          },
+          {
+            "extension":"jpg",
+            "caption":"Physarum polycephalum growing in a petri dish, 2014.",
+            "credit":"Theresa Schubert"
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"Connecting the Other\", table with 16 petri dishes (slime molds, bacteria, oat flakes, hair), 2016.",
+            "credit":"Theresa Schubert"
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"Chroma+Phy\", HD video with sound, production still, 2013.",
+            "credit":"Theresa Schubert"
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"bodymetries\", detail of projection on visitor's hand, 2014.",
+            "credit":"Theresa Schubert"
+          }
+        ],
+      "websites":[
+        {"url":"www.theresaschubert.com", "name":"theresaschubert.com"}
+      ],
+      "social":[
+        {"url":"www.vimeo.com/channels/artscience", "name":"vimeo.com/channels/artscience"}
+      ]
+    },
+
+    {
+      "firstName":"Marco",
+      "lastName":"Donnarumma",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"A unique presence in contemporary performance, Marco Donnarumma distinguishes himself by his use of emerging technology to deliver body performances that are at once intimate and powerful, oneiric and uncompromising, sensual and confrontational. Working with biotechnology, biophysical sensing, and more recently artificial intelligence and neurorobotics, Donnarumma expresses the chimerical nature of the body with a new and unsettling intensity. He is renown for his skill in using sound, whose physicality and depth he exploits to create experiences of instability, awe, shock and entrainment.</p><p>Actively contributing to the collaboration between art & science since a decade, Donnarumma’s arresting visions of the body have toured more than 60 countries worldwide, including, among the others, leading institutions and art events such as Venice Biennale, Steirischer Herbst, ZKM Center for Art and Media, Sónar+D Advanced Music Festival, ISEA, FILE Electronic Language International Festival, RPM: Ten Years of Sound Art in China, transmediale, CTM.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Marco Donnarumma.",
+            "credit":"Ugo Dalla Porta"
+          },
+          {
+            "extension":"jpg",
+            "caption":"In the installation \"0-Infinity\", Marco explores the visceral and communal ritual of sensory affection.",
+            "credit":"Fanny Fazakas"
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"Corpus Nil\" is a performance for a human body and an artificially intelligent machine.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"As the performance begins, the body slowly evolves into a unfamiliar being, partly human and partly machine.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Detail of \"Nigredo\", a private experience of altered self-perception and biophysical media.",
+            "credit":"Tomas Musikprotocoll"
+          },
+          {
+            "extension":"jpg",
+            "caption":"\"Ominous\" is an incarnated sound sculpture created and manipulated live by a performer.",
+            "credit":"Ugo Dalla Porta"
+          }
+        ],
+      "websites":[
+        {"url":"http://marcodonnarumma.com/", "name":"marcodonnarumma.com"}
+      ],
+      "social":[
+        {"url":"https://facebook.com/marcodonnarumma.live", "name":"facebook.com/marcodonnarumma.live"},
+        {"url":"https://twitter.com/marcodonnarumma", "name":"twitter.com/marcodonnarumma"},
+        {"url":"https://vimeo.com/marcodonnarumma/", "name":"vimeo.com/marcodonnarumma"},
+        {"url":"https://www.researchgate.net/profile/Marco_Donnarumma", "name":"researchgate.net/profile/Marco_Donnarumma"}
+      ]
+    },
+    {
+      "firstName":"Moritz Simon",
+      "lastName":"Geist",
+      "session":"\"Sonic Robots - Tripod\" – Robots, Bass and mad science",
+      "theme":"# Performance",
+      "bio":"Moritz Simon Geist. His projects range from electronic music performances to robotic sound installations. His robotic installations and performances have so far been shown in numerous European festivals and exhibitions including Ars Electronica 2014, Club Transmediale 2013, Mapping Festival [CH]. He has also collaborated with performers such as Mouse on Mars and Tyondai Braxton. He holds talks on the progression of robotics and society. In 2015, he was awarded the Artist-In-Residence-Stipend for the Free State of Saxony.</p><p>His background is both as a classical musician and a robotics engineer, with an advanced expertise in 3-D Printing. \"His concept is treating some important questions of the future, like the perception of technology, the robotization of society or the artificial intelligence, but still comes in a very playful and entertaining way: through electronical music.\" (Alain Bieber)",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Moritz Simon Geist.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The robotic sound collective Sonic Robots, founded by Moritz Simon Geist, presents performances and installations where electronic music is played live by robots,",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"In his latest installation, \"Tripod 1\", the artist is still present on stage controlling and interacting with the machine.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.sonicrobots.com", "name":"sonicrobots.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/simongeist", "name":"twitter.com/simongeist"},
+        {"url":"https://www.facebook.com/sonicrobots", "name":"facebook.com/sonicrobots"},
+        {"url":"https://vimeo.com/sonicrobots", "name":"vimeo.com/sonicrobots"}
+      ]
+    },
+
+    {
+      "firstName":"Jonathan",
+      "lastName":"Keep",
+      "session":"",
+      "theme":"# Creative Production",
+      "bio":"Jonathan Keep is an independent practising artist potter and a leading exponent of studio based ceramic 3D printing. His ceramics are recognizable for a strong sculptural quality and emphasis on form. The shapes of his pots are generated in computer code. He has developed this working process out of an interest in the way computer code can mimic natural codes, patterns and growth structures. A graduate of the Royal College of Art, London he exhibits internationally and lectures, undertakes artist residencies and workshops in the UK and abroad. Jonathan initiated the widely popular ‘Make Your Own Ceramic 3D Printer’ project.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Jonathan Keep.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Jonathan makes his digital pots with a DIY 3D printer he adapted to print clay.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"His \"Iceberg series\" is about the beauty to be found in apparently random natural forms.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Layer by layer the pots are printed out – a sort of mechanical pottery coil building.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"After printing, the ceramic is fired and glaze in the normal way.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"In his \"Sound Surface Series\", the texture is created by adding digital sound recording to the growing form.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.keep-art.co.uk/", "name":"keep-art.co.uk"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/JKeep_art", "name":"twitter.com/JKeep_art"},
+        {"url":"https://www.youtube.com/user/jkpottery/videos", "name":"youtube.com/user/jkpottery"},
+        {"url":"https://www.facebook.com/JKeep.art", "name":"facebook.com/JKeep.art"}
+      ]
+    },
+    {
+      "firstName":"Sara Lisa",
+      "lastName":"Vogl",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Sara Lisa Vogl is a creative squirrel with a passion for latest tech and a VR Nerd since the Oculus Rift DK1. She´s working in the fields of UX / UI, Communication & Art on the VR Exploration Game Lucid Trips. Sara teaches at Design Factory International in Hamburg and is an active part of the indie VR gaming scene. As co-founder of VR Nerds she is building up Nerd-Human Relations in that field. Sara Lisa debuted as a self-proclaimed VR Shaman for longtime VR Experiences during her DIS/CONNECTED performance with collaborator Thorsten S. Wiedemann, since then she is creating and exploring long term VR Trips in collaboration with academic research. She is also an avid skateboarder and has a crush on quantum physics and neurosience.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Sara Lisa Vogl.",
+            "credit":""
+          },
+          {
+            "extension":"png",
+            "caption":"Sara founded the VR exploration game Lucid Trips.",
+            "credit":""
+          },
+          {
+            "extension":"png",
+            "caption":"Still on the demo stage, the experience takes place in planetary dream worlds.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"The soft navigation through the planets is based on hand motion controllers.",
+            "credit":""
+          },
+          {
+            "extension":"png",
+            "caption":"The users will design their own worlds and challenge the other players to discover it.",
+            "credit":""
+          },
+          {
+            "extension":"png",
+            "caption":"Every planet will be an individual \"trip\" in the constantly expanding universe of dreams.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.saralisavogl.com", "name":"saralisavogl.com"},
+        {"url":"http://www.vrnerds.de", "name":"vrnerds.de"},
+        {"url":"http://www.lucidtrips.com", "name":"lucidtrips.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/saralisavogl", "name":"twitter.com/saralisavogl"},
+        {"url":"https://twitter.com/lucidtripsgame", "name":"twitter.com/lucidtripsgame"},
+        {"url":"https://twitter.com/vrnerds", "name":"twitter.com/vrnerds"},
+        {"url":"https://www.facebook.com/saralisavogl", "name":"facebook.com/saralisavogl"},
+        {"url":"https://www.facebook.com/vrnerds", "name":"facebook.com/vrnerds"},
+        {"url":"https://www.facebook.com/lucidtrips", "name":"facebook.com/lucidtrips"}
+      ]
+    },
+
+    {
+      "firstName":"Gene",
+      "lastName":"Kogan",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Gene Kogan is an artist and programmer who is interested in generative systems, emerging technology, and artificial intelligence. He writes code for live music, performance, and visual art. He is a contributor to numerous open-source software projects, and leads workshops and demonstrations on topics related to code and art. Gene is currently developing ml4a.github.io, a free book about machine learning for artists.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Gene Kogan.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"In \"Cubist Mirror\", Gene reflects the world back as if it was a Cubist painting.",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"His work also delves into machine learning, neuronal networks and artificial intelligence.",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://genekogan.com", "name":"genekogan.com"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/genekogan", "name":"twitter.com/genekogan"},
+        {"url":"https://instagram.com/genekogan", "name":"instagram.com/genekogan"},
+        {"url":"https://flickr.com/genekogan", "name":"flickr.com/genekogan"},
+        {"url":"https://vimeo.com/genekogan", "name":"vimeo.com/genekogan"},
+        {"url":"https://soundcloud.com/genekogan", "name":"soundcloud.com/genekogan"}
+      ]
+    }
+
+
+]}
