@@ -358,6 +358,10 @@
       $('.nav a').click(function () {
         $('.navbar-collapse').collapse('hide');
       });
+      $('a.home-link').click(function () {
+        event.preventDefault();
+        $('.navbar-collapse').collapse('hide');
+      });
     </script>
 
     <script>
