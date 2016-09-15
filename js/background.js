@@ -68,6 +68,13 @@ $( document ).ready(function() {
   c.width  = window.innerWidth;
   c.height = window.innerHeight;
 
+  if(document.getElementsByClassName("speakers-container").length ){
+    var speakercontainer = document.getElementsByClassName("speakers-container")[0];
+    var height = speakercontainer.clientHeight + speakercontainer.offsetTop + 50;
+
+    if(c.height < height) c.height = height;
+  }
+
   // initialize all points
   p_topLeft = new Vector(0, 0);
   p_topLeft_movable = new Vector(0, 0);
@@ -144,6 +151,13 @@ $(window).resize(function() {
   // make the canvas scale to window size
   c.width  = window.innerWidth;
   c.height = window.innerHeight;
+
+  if(document.getElementsByClassName("speakers-container").length > 0){
+    var speakercontainer = document.getElementsByClassName("speakers-container")[0];
+    var height = speakercontainer.clientHeight + speakercontainer.offsetTop + 50;
+
+    if(c.height < height) c.height = height;
+  }
 
   // initialize all points
   p_topLeft.setTarget(0, 0);
