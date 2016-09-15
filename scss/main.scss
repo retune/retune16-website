@@ -3,11 +3,42 @@
 @import 'nav-bar';
 @import 'home';
 @import 'speakers';
+@import 'imprint';
 
 html, body {
-  height: 100%;
+  min-height: 100%;
   .main-container {
     height: 100%;
-    overflow-y: scroll;
+    //overflow-y: scroll;
+    overflow-x: hidden;
+  }
+}
+
+.gallery {
+  margin-top: 2em;
+}
+
+
+.gallery figure {
+  display: none;
+}
+
+.gallery a{
+  margin: 0 12px 12px 0;
+  float: left;
+}
+
+p {
+  line-height: 150%;
+}
+
+.up {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  opacity: 0;
+  img {
+    width: 60px;
+    margin-left: -30px;
   }
 }
