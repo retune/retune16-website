@@ -1,9 +1,5 @@
 @import 'old-styling';
 @import 'colors';
-@import 'nav-bar';
-@import 'home';
-@import 'speakers';
-@import 'imprint';
 
 html, body {
   min-height: 100%;
@@ -42,3 +38,9 @@ p {
     margin-left: -30px;
   }
 }
+
+@import 'nav-bar';
+@import 'home';
+@import 'speakers';
+@import 'topics';
+@import 'imprint';
