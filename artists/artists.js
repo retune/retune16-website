@@ -120,7 +120,7 @@ for(var speaker in j.speakers){
 
 html += footer;
 
-fs.writeFile("index.html", html, function(err) {
+fs.writeFile("artists/index.html", html, function(err) {
     if(err) {
         return console.log(err);
     }

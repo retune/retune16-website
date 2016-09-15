@@ -25,17 +25,24 @@ module.exports = function(grunt) {
           'css/style.css': 'scss/main.scss'
         }
       }
+    },
+    execute: {
+      generate_artists: {
+          src: ['artists/artists.js']
+      }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-execute');
 
   grunt.registerTask('build',
     [
       'sass:dev',
-      'cssmin'
+      'cssmin',
+      'execute:generate_artists'
     ]
   );
 };
