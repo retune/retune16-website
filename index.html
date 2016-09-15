@@ -362,6 +362,15 @@
         event.preventDefault();
         $('.navbar-collapse').collapse('hide');
       });
+      $('.about-link').click(function () {
+        event.preventDefault();
+        console.log($('#about').offset().top);
+          $('body,html').animate({
+            scrollTop: $('#about').offset().top,
+          }, 1000
+        );
+      });
+
     </script>
 
     <script>
