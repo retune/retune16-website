@@ -23,6 +23,15 @@
     <link rel="stylesheet" type="text/css" href="css/jquery.fullpage.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.min.css">
 
+
+    <link href="css/photoswipe.css?v=4.1.1-1.0.4" rel="stylesheet" />
+    <link href="css/default-skin.css?v=4.1.1-1.0.4" rel="stylesheet" />
+
+    <script>
+      document.write('<script src=js/photoswipe.js?r='+Math.random()+'><\/script>');
+      document.write('<script src=js/photoswipe-ui-default.js?r='+Math.random()+'><\/script>');
+    </script>
+
     <script src="https://js.tito.io/v1" async></script>
   </head>
 
@@ -91,6 +100,23 @@
         <div class="col-xs-12 col-md-11">
           <p>Exhibitions, talks, and workshops are clustered around four main themes:<br># Immersed Narratives<br># Neuronal Creation<br># Networked Transplantations<br># Creative Production</p>
         </div>
+
+        <div id="gallery" class="gallery col-xs-12">
+	        <a href="img/GlogauAir.jpg" data-size="591x313" data-author="" class="demo-gallery__img--main">
+	          <img src="img/GlogauAir_small.jpg" alt="" />
+	          <figure>Retune Main Venue, GlogauAir</figure>
+	        </a>
+
+          <a href="img/Retune14_01.jpg" data-size="1500x998" data-author="Thomas Schlorke" class="demo-gallery__img--main">
+	          <img src="img/Retune14_01_small.jpg" alt="" />
+	          <figure>Impression from Festival 2014</figure>
+	        </a>
+
+          <a href="img/Retune14_02.jpg" data-size="1500x998" data-author="Thomas Schlorke" class="demo-gallery__img--main">
+	          <img src="img/Retune14_02_small.jpg" alt="" />
+	          <figure>Impression from Festival 2014</figure>
+	        </a>
+	      </div>
       </div>
 
       <div id="location" class="row map-section">
@@ -200,6 +226,70 @@
     </div> <!-- /fullpage -->
 
     <div class="social"><a href="https://www.facebook.com/retuneberlin" target="_blank" target="_blank">Facebook</a> • <a href="https://twitter.com/retuneberlin" target="_blank">Twitter</a> • <a href="http://instagram.com/retuneberlin" target="_blank">Instagram</a> • <a href="http://eepurl.com/oAiGz" target="_blank">Newsletter</a> • <a href="http://slack.retune.de" target="_blank">Slack</a></div>
+
+
+    <!--  PHOTOSWIPE  -->
+    <div id="gallery" class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pswp__bg"></div>
+
+        <div class="pswp__scroll-wrap">
+
+          <div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+          </div>
+
+          <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+				<div class="pswp__counter"></div>
+
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+				<button class="pswp__button pswp__button--share" title="Share"></button>
+
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+					  <div class="pswp__preloader__cut">
+					    <div class="pswp__preloader__donut"></div>
+					  </div>
+					</div>
+				</div>
+            </div>
+
+
+			<!-- <div class="pswp__loading-indicator"><div class="pswp__loading-indicator__line"></div></div> -->
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+	            <div class="pswp__share-tooltip">
+					<!-- <a href="#" class="pswp__share--facebook"></a>
+					<a href="#" class="pswp__share--twitter"></a>
+					<a href="#" class="pswp__share--pinterest"></a>
+					<a href="#" download class="pswp__share--download"></a> -->
+	            </div>
+	        </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+            <div class="pswp__caption">
+              <div class="pswp__caption__center">
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+    </div>
+
+
+    <script type="text/javascript" src="js/gallery.js"></script>
 
     <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
     <!-- <script type="text/javascript" src="js/scrolloverflow.js"></script>
