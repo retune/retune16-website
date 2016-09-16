@@ -21,9 +21,9 @@
         {"url":"http://www.theenemyishere.org", "name":"theenemyishere.org"}
       ],
       "social":[
-        {"url":"www.instagram.com/karimbenkhelifa", "name":"instagram.com/karimbenkhelifa"},
-        {"url":"www.twitter.com/kbenk", "name":"twitter.com/kbenk"},
-        {"url":"www.facebook.com/zanziben", "name":"facebook.com/zanziben"}
+        {"url":"http://www.instagram.com/karimbenkhelifa", "name":"instagram.com/karimbenkhelifa"},
+        {"url":"http://www.twitter.com/kbenk", "name":"twitter.com/kbenk"},
+        {"url":"http://www.facebook.com/zanziben", "name":"facebook.com/zanziben"}
       ]
     },
     {
@@ -50,13 +50,13 @@
           }
         ],
       "websites":[
-        {"url":"www.driesdepoorter.be", "name":"driesdepoorter.be"}
+        {"url":"http://www.driesdepoorter.be", "name":"driesdepoorter.be"}
       ],
       "social":[
-        {"url":"www.twitter.com/driesdepoorter", "name":"twitter.com/driesdepoorter"},
-        {"url":"www.facebook.com/depoorterdries", "name":"facebook.com/depoorterdries"},
-        {"url":"www.instagram.com/driesdepoorter", "name":"instagram.com/driesdepoorter"},
-        {"url":"www.vimeo.com/driesdepoorter", "name":"vimeo.com/driesdepoorter"}
+        {"url":"http://www.twitter.com/driesdepoorter", "name":"twitter.com/driesdepoorter"},
+        {"url":"http://www.facebook.com/depoorterdries", "name":"facebook.com/depoorterdries"},
+        {"url":"http://www.instagram.com/driesdepoorter", "name":"instagram.com/driesdepoorter"},
+        {"url":"http://www.vimeo.com/driesdepoorter", "name":"vimeo.com/driesdepoorter"}
       ]
     },
     {
@@ -348,7 +348,7 @@
           }
         ],
       "websites":[
-        {"url":"www.invr.space", "name":"invr.space"}
+        {"url":"http://www.invr.space", "name":"invr.space"}
       ],
       "social":[
         {"url":"https://www.facebook.com/invr.space/", "name":"facebook.com/invr.space"}
@@ -467,10 +467,10 @@
           }
         ],
       "websites":[
-        {"url":"www.theresaschubert.com", "name":"theresaschubert.com"}
+        {"url":"http://www.theresaschubert.com", "name":"theresaschubert.com"}
       ],
       "social":[
-        {"url":"www.vimeo.com/channels/artscience", "name":"vimeo.com/channels/artscience"}
+        {"url":"http://www.vimeo.com/channels/artscience", "name":"vimeo.com/channels/artscience"}
       ]
     },
 
