@@ -161,20 +161,17 @@ $(window).resize(function() {
   }
 
   // initialize all points
-  p_topLeft.setTarget(0, 0);
-  p_topLeft_movable.setTarget(0, 0);
-  p_topRight.setTarget(c.width, 0);
-  p_topRight_movable.setTarget(c.width, 0);
-  p_bottomRight.setTarget(c.width, c.height);
-  p_bottomRight_movable.setTarget(c.width, c.height);
-  p_bottomLeft.setTarget(0, c.height);
-  p_bottomLeft_movable.setTarget(200, c.height);
-  p_middle.setTarget(c.width/2, c.height/2);
-  p_middleTop.setTarget(c.width/2, c.height/2 - 200);
-  p_middleBottom.setTarget(c.width/2, c.height/2 + 200);
+  p_top_tl.setTarget(0, 0);
+  p_top_bl.setTarget(0, c.height/2);
+  p_top_tm.setTarget(c.width/2, 0);
+  p_top_bm.setTarget(c.width/2, c.height/2);
+  p_top_tr.setTarget(c.width, 0);
+  p_top_br.setTarget(c.width, c.height/2);
 
-  middleOffset.setTarget(0, 200);
-  mouseDistanceFromCenter;
+  p_bottom_bl.setTarget(0, c.height);
+  p_bottom_tm.setTarget(c.width/2, c.height/2);
+  p_bottom_bm.setTarget(c.width/2, c.height);
+  p_bottom_br.setTarget(c.width, c.height);
 
   p_mouse = new Vector(c.width/2, c.height/2);
 
@@ -186,12 +183,16 @@ $(window).resize(function() {
 
 function draw(){
   // update the positions
+  p_top_tl.update();
+  p_top_bl.update();
   p_top_tm.update();
   p_top_bm.update();
+  p_top_tr.update();
+  p_top_br.update();
+  p_bottom_bl.update();
   p_bottom_tm.update();
   p_bottom_bm.update();
-  p_top_bl.update();
-  p_top_br.update();
+  p_bottom_br.update();
 
   var time = Date.now() * 0.001;
 
@@ -211,8 +212,8 @@ function draw(){
   ctx.fillStyle = gradient1;
   ctx.beginPath();
   ctx.moveTo(p_top_tl.x, p_top_tl.y);
-  ctx.lineTo(p_top_tm.x, p_top_tm.y);
-  ctx.lineTo(p_top_bm.x, p_top_bm.y);
+  ctx.lineTo(p_top_tm.x+1, p_top_tm.y);
+  ctx.lineTo(p_top_bm.x+1, p_top_bm.y);
   ctx.lineTo(p_top_bl.x, p_top_bl.y);
   ctx.closePath();
   ctx.fill();
@@ -231,8 +232,8 @@ function draw(){
   ctx.fillStyle = gradient3;
   ctx.beginPath();
   ctx.moveTo(p_top_bl.x, p_top_bl.y);
-  ctx.lineTo(p_bottom_tm.x, p_bottom_tm.y);
-  ctx.lineTo(p_bottom_bm.x, p_bottom_bm.y);
+  ctx.lineTo(p_bottom_tm.x+1, p_bottom_tm.y);
+  ctx.lineTo(p_bottom_bm.x+1, p_bottom_bm.y);
   ctx.lineTo(p_bottom_bl.x, p_bottom_bl.y);
   ctx.closePath();
   ctx.fill();
