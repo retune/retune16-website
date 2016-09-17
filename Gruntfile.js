@@ -6,6 +6,10 @@ module.exports = function(grunt) {
       css: {
         files: 'scss/**/*.scss',
         tasks: ['sass:dev', 'cssmin']
+      },
+      artists: {
+        files: 'artists/**/*.json',
+        tasks: ['sass:dev', 'execute:generate_artists']
       }
     },
     cssmin: {
