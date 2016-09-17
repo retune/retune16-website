@@ -25,18 +25,35 @@
   overflow: hidden;
   min-height: 100%;
   .topic-card {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
     padding-bottom: 60px;
     border-bottom: 1px solid $border-grey;
     min-height: 100%;
     .topic-info {
+      margin-bottom: 2em;
       h1 {
         margin-top:0;
+        margin-bottom: 1.5em;
       }
       p {
-        margin-bottom: 20px;
+        margin-bottom: 1em;
+        font-size: 2em;
       }
     }
+    span.image-number {
+      display: block;
+      margin-top: 10px;
+      padding-left: 3px;
+    }
+    .gallery {
+      margin-top: 0;
+    }
+    .captions {
+      p {
+        margin-bottom: 1em;
+      }
+    }
+
   }
 }
 
