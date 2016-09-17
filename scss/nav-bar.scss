@@ -80,6 +80,7 @@
   .navbar-collapse {
     padding-left: 51px;
     border-top: 1px solid black;
+    padding-right: 25px;
     .navbar-nav {
       li.nav-item {
         display: inline-block;
@@ -96,6 +97,12 @@
           cursor: pointer;
           text-decoration: underline;
         }
+      }
+      li.right{
+        float: right;
+      }
+      li.current{
+        text-decoration: underline;
       }
     }
   }
