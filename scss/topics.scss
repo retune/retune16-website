@@ -47,10 +47,23 @@
     }
     .gallery {
       margin-top: 0;
+      img {
+        box-shadow: 5px 5px #333;
+      }
     }
     .captions {
       p {
         margin-bottom: 1em;
+      }
+    }
+    .topic-program{
+      margin-top: 2em;
+      padding-top: 1em;
+      border-top: 1px solid $border-grey;
+      ul{
+        list-style-type: none;
+        padding-left: 0;
+        line-height: 1.6;
       }
     }
 
