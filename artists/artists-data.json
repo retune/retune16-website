@@ -1,5 +1,156 @@
 {"speakers":[
     {
+      "firstName":"Marta",
+      "lastName":"Di Francesco",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Marta writes and direct radical visual work, and is interested in exploring new aesthetics merging poetics with code. In her practice, she investigates the digital bleed of identity displacement and the sculptural quality of time through video processing, slit scanning and Kinect volumetric aesthetics. She has been working in the creative field for over a decade, creating radical visual pieces which inhabit and cross over the world of film, fashion, dance. She is working in London, continuously open to and seeking multidisciplinary collaborations to explore new conversations.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://martadifrancesco.com/", "name":"martadifrancesco.com"}
+      ],
+      "social":[
+        {"url":"http://www.instagram.com/marta_di_francesco", "name":"instagram.com/marta_di_francesco"},
+        {"url":"https://twitter.com/CUCCURUCU", "name":"twitter.com/CUCCURUCU"},
+        {"url":"https://vimeo.com/mdfcreative", "name":"vimeo.com/mdfcreative"}
+      ]
+    },
+
+    {
+      "firstName":"Ruohan",
+      "lastName":"Wang",
+      "session":"Making a toy? Don't forget to play!",
+      "theme":"# Creative Production",
+      "bio":"Justyna (29) is a toy inventor and a tangible interfaces designer. She created interactive objects and installations for kids, like multi-sensory instrument Mórimo, which helpsto 'listen' to music with senses other than hearing – mainly through the sense of touch. Justyna exhibited at Ars Electronica Festival, International Computer Music Conference, Culture 2.0 Festival, Lodz Design Festival, etc. and held numerous of workshops about interactive objects. Justyna wants to give children play objects, that would empower them to feel the invisible, develop their perception and shape beautiful childhood memories.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.ruohanwang.com", "name":"ruohanwang.com"}
+      ],
+      "social":[
+        {"url":"http://www.instagram.com/ruo_han_wang", "name":"instagram.com/ruo_han_wang"},
+        {"url":"https://twitter.com/ruohanwang", "name":"twitter.com/ruohanwang"},
+        {"url":"https://www.facebook.com/ruohan.wang.88", "name":"facebook.com/ruohan.wang.88"},
+        {"url":"https://vimeo.com/ruohanwang", "name":"vimeo.com/ruohanwang"}
+      ]
+    },
+
+
+    {
+      "firstName":"Justyna",
+      "lastName":"Zubrycka",
+      "session":"Making a toy? Don't forget to play!",
+      "theme":"# Creative Production",
+      "bio":"Justyna (29) is a toy inventor and a tangible interfaces designer. She created interactive objects and installations for kids, like multi-sensory instrument Mórimo, which helpsto 'listen' to music with senses other than hearing – mainly through the sense of touch. Justyna exhibited at Ars Electronica Festival, International Computer Music Conference, Culture 2.0 Festival, Lodz Design Festival, etc. and held numerous of workshops about interactive objects. Justyna wants to give children play objects, that would empower them to feel the invisible, develop their perception and shape beautiful childhood memories.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://vaikai.com", "name":"vaikai.com"}
+      ],
+      "social":[
+        {"url":"http://www.twitter.com/vai_kai", "name":"twitter.com/vai_kai"},
+        {"url":"https://www.facebook.com/vaikaiplay/", "name":"facebook.com/vaikaiplay"},
+        {"url":"https://vimeo.com/vaikaiplay/videos", "name":"vimeo.com/vaikaiplay"}
+      ]
+    },
+
+    {
+      "firstName":"Klara",
+      "lastName":"Ravat",
+      "session":"SmellSCAPES",
+      "theme":"# Immersed Narratives",
+      "bio":"Klara Ravat is an olfactory artist and experimental filmmaker based in Berlin. After studying qualitative trend research in Barcelona she moved to The Netherlands where she graduated with a Bachelor of Arts (ArtScience) while she started her Psychology studies at the Open University of Catalonia. Ravat is the Smell Lab supporter at the community project in Spektrum, Berlin and the Smell Lab Collective project manager. Her training as an olfactory artist an a background in qualitative trend research and psychology, grants her to reach a detailed multidisciplinary point of view, which allows her to reach a deep understanding of processes behind the human senses.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.klararavat.com", "name":"klararavat.com"}
+      ],
+      "social":[
+      ]
+    },
+
+    {
       "firstName":"Karim Ben",
       "lastName":"Khelifa",
       "session":"",
@@ -30,7 +181,7 @@
       "firstName":"Dries",
       "lastName":"Depoorter",
       "session":"",
-      "theme":"# Immersed Narratives",
+      "theme":"# Neuronal Creation",
       "bio":"Assembling, sharing and experimenting with private data of himself and random people found on the internet, digital artist Dries Depoorter tackles in a thought-provoking way issues like social identity, big data sharing, encryption and (the lack of) protection of our online privacy.",
       "images":[
           {
