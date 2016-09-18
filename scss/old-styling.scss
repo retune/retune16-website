@@ -103,7 +103,7 @@ display: table; text-align: center;}
 #imprint.opencall .column h3:nth-of-type(2n) { margin-top: 40px; }
 
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
   #page-header { padding-top: 14px; height: 60px;}
   #page-header h1, #page-header h2, span.retune { left: inherit; margin-left: 10px;  }
   #page-header h1, #page-header h2 { float: left; display: block; position: relative; width: 50%; margin-bottom: 7px; font-size: 18px;}

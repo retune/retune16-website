@@ -8,7 +8,7 @@
     padding: 0 60px;
 
     .topic-name {
-      font-size: 3em;
+      font-size: 5vw;//3em;
       margin:10px 0;
       z-index: 100;
       &:hover {
@@ -73,12 +73,12 @@
 @media (max-width: 991px) {
   #background {
     .topics-container {
-      top:100px;
-      padding: 0;
-      margin-top:20px;
+      // top:100px;
+      // padding: 0;
+      // margin-top:20px;
 
       .topic-name {
-        font-size: 2em;
+        // font-size: 2em;
         margin:10px 0;
         z-index: 100;
 
@@ -97,20 +97,36 @@
       margin-top:20px;
 
       .topic-name {
-        font-size: 1em;
+        // font-size: 1em;
         margin:10px 0;
         z-index: 100;
       }
     }
   }
   .topics {
-    padding:0;
+    padding:40px 0 0 0;
     .topic-card {
+      margin-bottom: 60px;
+      padding-bottom: 20px;
       h1 {
+        font-size: 1em;
+      }
+      h2{
         font-size: 1em;
       }
       p {
         font-size: .8em;
+      }
+      .topic-info {
+        p {
+          font-size: 1em;
+        }
+      }
+      .image-number{
+        font-size: 0.8em;
+      }
+      .topic-program{
+        margin-top: 1em;
       }
     }
   }

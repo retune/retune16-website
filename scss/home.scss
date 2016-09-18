@@ -107,7 +107,13 @@
     #background{
       .intro-text{
         .retune-title{
-          margin-left: 0;
+          margin-left: 10px;
+        }
+        .text-left{
+          margin-left: 10px;
+        }
+        .year{
+          left: 21px;
         }
       }
     }
@@ -118,7 +124,7 @@
   .intro-text-container {
     #background {
       .intro-text {
-        padding-top: 160px;
+        padding-top: 120px;
         span {
           text-align: left;
           font-size: 4em;
@@ -129,10 +135,16 @@
         }
         .year {
           //margin-top: 30px;
-          position: relative;
+          // position: relative;
         }
         .retune-title{
           margin-left: 0;
+        }
+        .text-left{
+          margin-left: 0;
+        }
+        .year{
+          left: 10px;
         }
       }
     }
