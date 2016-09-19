@@ -14,18 +14,7 @@
 
 
     <script>
-      function scrollToId(id) {
-        var mappedId = id + '-detail'
-        window.location.hash = id;
-        var offsetFromTopNav = 70;
-        if ($(window).width() <= 768) {
-          offsetFromTopNav = 120;
-        }
-        console.log(mappedId);
-        $('body,html').animate({
-              scrollTop: $(mappedId).offset().top - offsetFromTopNav
-          }, 1000);
-      }
+
 
       (function() {
         $('.nav a').click(function () {
@@ -35,12 +24,17 @@
           event.preventDefault();
           $('.navbar-collapse').collapse('hide');
         });
-        $(".topic-name").click(function() {
-          var name = $(this).html();
-          name = name.substring(2, name.length); // Removing the first hash and space
-          var idToScroll = '#' + name.split(' ').join('-');
-          scrollToId(idToScroll);
+
+      $('.schedule-element p').click(function() {
+        if ($(this).data('popupId')) {
+          $('#' + $(this).data('popupId')).show();
+        }
+      });
+
+        $('span.close').click(function() {
+          $('.detail-event').hide();
         });
+
 
         // smooth scrolling up
         $('.up').click(function (event) {

@@ -1,6 +1,6 @@
-  [{
+{
     "date": "Thursday, 06.10.2016",
-    "displayTitle": "Thursday October 6, 2016",
+    "displayTitle": "Thursday<br>October 6, 2016",
     "schedule": [
       {
         "time": "10:00",
@@ -9,6 +9,7 @@
             "topicName": "Immersed Narratives",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -24,6 +25,7 @@
             "topicName": "Neuronal Creations",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -33,6 +35,7 @@
                 "website": "www.example.com"
               },
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 4",
                 "location": "Kino",
                 "speakers": [
@@ -48,6 +51,7 @@
             "topicName": "Networked Transplantations",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -63,6 +67,7 @@
             "topicName": "Creative Production",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -78,6 +83,7 @@
             "topicName": "Random",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -104,6 +110,7 @@
             "topicName": "Neuronal Creations",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -113,6 +120,7 @@
                 "website": "www.example.com"
               },
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 4",
                 "location": "Kino",
                 "speakers": [
@@ -128,6 +136,7 @@
             "topicName": "Networked Transplantations",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -148,6 +157,7 @@
             "topicName": "Random",
             "events": [
               {
+                "id":"uniqueID",
                 "scheduleTitle": "Speaker Name 1",
                 "location": "Church",
                 "speakers": [
@@ -163,4 +173,4 @@
       }
 
     ]
-  }]
+  }
