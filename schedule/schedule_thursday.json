@@ -1,0 +1,166 @@
+  [{
+    "date": "Thursday, 06.10.2016",
+    "displayTitle": "Thursday October 6, 2016",
+    "schedule": [
+      {
+        "time": "10:00",
+        "topics": [
+          {
+            "topicName": "Immersed Narratives",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Neuronal Creations",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              },
+              {
+                "scheduleTitle": "Speaker Name 4",
+                "location": "Kino",
+                "speakers": [
+                  "Speaker Name 1"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Networked Transplantations",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Creative Production",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Random",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          }
+
+        ]
+      },
+
+      {
+        "time": "12:00",
+        "topics": [
+          {
+            "topicName": "Immersed Narratives",
+            "events": []
+          },
+
+          {
+            "topicName": "Neuronal Creations",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              },
+              {
+                "scheduleTitle": "Speaker Name 4",
+                "location": "Kino",
+                "speakers": [
+                  "Speaker Name 1"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Networked Transplantations",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Creative Production",
+            "events": []
+          },
+
+          {
+            "topicName": "Random",
+            "events": [
+              {
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          }
+
+        ]
+      }
+
+    ]
+  }]
