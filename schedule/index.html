@@ -93,7 +93,73 @@
       <div class="schedule row">
 
 
-<div class="col-xs-12 day-schedule">          <div class="row">            <div class="col-xs-12">              <h1 class="schedule-day">Friday<br>October 7, 2016</h1>            </div>          </div>          <div class="row schedule-day-header">            <div class="col-xs-2 header-title">              <h2>Time</h2>            </div>            <div class="col-xs-2 header-title">              <h2>Immersed Narratives</h2>            </div>            <div class="col-xs-2 header-title">              <h2>Neuronal Creations</h2>            </div>            <div class="col-xs-2 header-title">              <h2>Networked Transplantations</h2>            </div>            <div class="col-xs-2 header-title">              <h2>Creative Production</h2>            </div>            <div class="col-xs-2 header-title">              <h2>Random</h2>            </div>          </div>          <div class="row schedule-row">            <div class="col-xs-2 schedule-element schedule-time">              <p>10:00</p>            </div>            <div class="col-xs-2 schedule-element">              <p></p>            </div>            <div class="col-xs-2 schedule-element">              <p></p>            </div>            <div class="col-xs-2 schedule-element">              <p></p>            </div>            <div class="col-xs-2 schedule-element">              <p></p>            </div>            <div class="col-xs-2 schedule-element">              <p></p>            </div>          </div>        </div>
+<div class="col-xs-12 day-schedule">
+
+          <div class="row">
+            <div class="col-xs-12">
+              <h1 class="schedule-day">Friday<br>October 7, 2016</h1>
+            </div>
+          </div>
+
+          <div class="row schedule-day-header">
+            <div class="col-xs-2 header-title">
+              <h2>Time</h2>
+            </div>
+            <div class="col-xs-2 header-title">
+              <h2>Immersed Narratives</h2>
+            </div>
+            <div class="col-xs-2 header-title">
+              <h2>Neuronal Creations</h2>
+            </div>
+            <div class="col-xs-2 header-title">
+              <h2>Networked Transplantations</h2>
+            </div>
+            <div class="col-xs-2 header-title">
+              <h2>Creative Production</h2>
+            </div>
+            <div class="col-xs-2 header-title">
+              <h2>Random</h2>
+            </div>
+          </div>
+          <div class="row schedule-row">
+            <div class="col-xs-2 schedule-element schedule-time">
+              <p>10:00</p>
+            </div>
+            <div class="col-xs-2 schedule-element">
+              <p data-popup-id="test-id">test</p>
+              <div id="test-id" class="detail-event">
+                <div class="basic-info">
+                  <p>Thursd. 06.10.2016</p>
+                  <p>time</p>
+                  <p>Location</p>
+                  <span class="close">X</span>
+                </div>
+                <div class="detail-info">
+                  <p>Speaker name 1</p>
+                  <p>Speaker name 1</p>
+                  <p>Speaker name 1</p>
+                  <p class="description">
+                    Lorem ipsum Occaecat et laboris ut do laboris qui nostrud proident deserunt tempor incididunt deserunt ex laborum sit consectetur commodo nostrud exercitation minim deserunt adipisicing id ea sed dolor reprehenderit nisi velit ut officia laboris reprehenderit eiusmod consectetur in ut.
+                  </p>
+                  <p><a href="#">www.example.com</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-2 schedule-element">
+              <p></p>
+            </div>
+            <div class="col-xs-2 schedule-element">
+              <p></p>
+            </div>
+            <div class="col-xs-2 schedule-element">
+              <p></p>
+            </div>
+            <div class="col-xs-2 schedule-element">
+              <p></p>
+            </div>
+          </div>
+        </div>
+
 
 
       </div> <!-- /schedule-->
@@ -109,18 +175,6 @@
 
 
     <script>
-      function scrollToId(id) {
-        var mappedId = id + '-detail'
-        window.location.hash = id;
-        var offsetFromTopNav = 70;
-        if ($(window).width() <= 768) {
-          offsetFromTopNav = 120;
-        }
-        console.log(mappedId);
-        $('body,html').animate({
-              scrollTop: $(mappedId).offset().top - offsetFromTopNav
-          }, 1000);
-      }
 
       (function() {
         $('.nav a').click(function () {
@@ -130,11 +184,16 @@
           event.preventDefault();
           $('.navbar-collapse').collapse('hide');
         });
-        $(".topic-name").click(function() {
-          var name = $(this).html();
-          name = name.substring(2, name.length); // Removing the first hash and space
-          var idToScroll = '#' + name.split(' ').join('-');
-          scrollToId(idToScroll);
+
+        $('.schedule-element p').click(function() {
+          if ($(this).data('popupId')) {
+            console.log('#' + $(this).data('popupId'));
+            $('#' + $(this).data('popupId')).show();
+          }
+        });
+
+        $('span.close').click(function() {
+          $('.detail-event').hide();
         });
 
         // smooth scrolling up
