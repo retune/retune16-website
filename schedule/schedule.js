@@ -2,11 +2,12 @@ var fs = require('fs');
 var _ = require('underscore');
 
 var scheduleThu = require(__dirname + "/schedule_thursday.json");
-// var scheduleFri = require(__dirname + "/schedule_friday.json");
+var scheduleFri = require(__dirname + "/schedule_friday.json");
 // var scheduleThu = require(__dirname + "/schedule_saturday.json");
 
 var totalSchedule = [];
 totalSchedule.push(scheduleThu);
+totalSchedule.push(scheduleFri);
 
 var header = fs.readFileSync(__dirname + "/header.html").toString();
 var footer = fs.readFileSync(__dirname + "/footer.html").toString();
@@ -21,7 +22,7 @@ _.forEach(totalSchedule, function(day){
 
   scheduleStr  += "<div class=\"col-xs-12 day-schedule\">\n";
   scheduleStr  += "\n";
-  scheduleStr  += "          <div class=\"row\">\n";
+  scheduleStr  += "          <div class=\"row day-schedule-row\">\n";
   scheduleStr  += "            <div class=\"col-xs-12\">\n";
   scheduleStr  += "              <h1 class=\"schedule-day\">" + day.displayTitle + "<\/h1>\n";
   scheduleStr  += "            <\/div>\n";
@@ -29,7 +30,7 @@ _.forEach(totalSchedule, function(day){
   scheduleStr  += "\n";
   scheduleStr  += "          <div class=\"row schedule-day-header\">\n";
   scheduleStr  += "            <div class=\"col-xs-2 header-title\">\n";
-  scheduleStr  += "              <h2>Time<\/h2>\n";
+  scheduleStr  += "              <h2>Time<br>&nbsp;<\/h2>\n";
   scheduleStr  += "            <\/div>\n";
   scheduleStr  += "            <div class=\"col-xs-2 header-title\">\n";
   scheduleStr  += "              <h2>Immersed Narratives<\/h2>\n";
@@ -44,7 +45,7 @@ _.forEach(totalSchedule, function(day){
   scheduleStr  += "              <h2>Creative Production<\/h2>\n";
   scheduleStr  += "            <\/div>\n";
   scheduleStr  += "            <div class=\"col-xs-2 header-title\">\n";
-  scheduleStr  += "              <h2>Random<\/h2>\n";
+  scheduleStr  += "              <h2>Random<br>&nbsp;<\/h2>\n";
   scheduleStr  += "            <\/div>\n";
   scheduleStr  += "          <\/div>\n";
 
@@ -53,7 +54,7 @@ _.forEach(totalSchedule, function(day){
 
     scheduleStr  += "          <div class=\"row schedule-row\">\n";
     scheduleStr  += "            <div class=\"col-xs-2 schedule-element schedule-time\">\n";
-    scheduleStr  += "              <p>" + row.time + "<\/p>\n";
+    scheduleStr  += "              <p>" + row.time + "<br>&nbsp;<\/p>\n";
     scheduleStr  += "            <\/div>\n";
 
     _.forEach(row.topics, function(topic) {
@@ -71,7 +72,7 @@ _.forEach(totalSchedule, function(day){
           scheduleStr += "                  <p>" + day.date + "<\/p>\n";
           scheduleStr += "                  <p>" + row.time + "<\/p>\n";
           scheduleStr += "                  <p>" + topic.events[i].location + "<\/p>\n";
-          scheduleStr += "                  <span class=\"close\">X<\/span>\n";
+          scheduleStr += "                  <span class=\"close-icon\"><\/span>\n";
           scheduleStr += "                <\/div>\n";
           scheduleStr += "                <div class=\"detail-info\">\n";
 
@@ -87,7 +88,7 @@ _.forEach(totalSchedule, function(day){
           scheduleStr += "              <\/div>\n";
         }
         else {
-          scheduleStr  += "              <p>&nbsp;<\/p>\n";
+          scheduleStr  += "              <p>&nbsp;<br>&nbsp;<\/p>\n";
         }
         scheduleStr  += "            <\/div>\n";
       }

@@ -16,9 +16,21 @@
 }
 
 .schedule {
-  padding: 60px;
+  padding: 60px 60px 100px 60px;
+
+  .day-schedule-row {
+    margin-bottom: 20px;
+    border-bottom: 1px solid $black;
+  }
+
   .schedule-day-header {
-    border-top: 1px solid $black;
+
+
+    .header-title {
+      border-right: 1px solid $black;
+      padding-top: 20px;
+      padding-bottom: 30px;
+    }
     .header-title:first-child {
       padding-left: 0;
     }
@@ -28,9 +40,19 @@
     h2 {
       font-size: 1em;
       word-spacing: 3000px;
+      margin:0;
     }
   }
   .schedule-row {
+    .schedule-element {
+      border-right: 1px solid $black;
+      padding-top: 10px;
+      padding-bottom: 20px;
+      font-size: .8em;
+      &:hover {
+        cursor: pointer;
+      }
+    }
     .schedule-element:first-child {
       padding-left: 0;
     }
@@ -56,6 +78,20 @@
       padding-bottom: 20px;
       margin-bottom: 20px;
       border-bottom: 1px solid $white;
+      .close-icon {
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top:30px;
+        right: 30px;
+        background-image: url('../img/close.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center center;
+        &:hover {
+          cursor: pointer;
+        }
+      }
     }
     .detail-info {
       .description {
