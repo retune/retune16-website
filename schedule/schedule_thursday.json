@@ -1,0 +1,176 @@
+{
+    "date": "Thursday, 06.10.2016",
+    "displayTitle": "Thursday<br>October 6, 2016",
+    "schedule": [
+      {
+        "time": "10:00",
+        "topics": [
+          {
+            "topicName": "Immersed Narratives",
+            "events": [
+              {
+                "id":"uniqueID_0",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Neuronal Creations",
+            "events": [
+              {
+                "id":"uniqueID_1",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              },
+              {
+                "id":"uniqueID_2",
+                "scheduleTitle": "Speaker Name 4",
+                "location": "Kino",
+                "speakers": [
+                  "Speaker Name 1"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Networked Transplantations",
+            "events": [
+              {
+                "id":"uniqueID_3",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Creative Production",
+            "events": [
+              {
+                "id":"uniqueID_4",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Random",
+            "events": [
+              {
+                "id":"uniqueID_5",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          }
+
+        ]
+      },
+
+      {
+        "time": "12:00",
+        "topics": [
+          {
+            "topicName": "Immersed Narratives",
+            "events": []
+          },
+
+          {
+            "topicName": "Neuronal Creations",
+            "events": [
+              {
+                "id":"uniqueID_6",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              },
+              {
+                "id":"uniqueID_7",
+                "scheduleTitle": "Speaker Name 4",
+                "location": "Kino",
+                "speakers": [
+                  "Speaker Name 1"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Networked Transplantations",
+            "events": [
+              {
+                "id":"uniqueID_8",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          },
+
+          {
+            "topicName": "Creative Production",
+            "events": []
+          },
+
+          {
+            "topicName": "Random",
+            "events": [
+              {
+                "id":"uniqueID_9",
+                "scheduleTitle": "Speaker Name 1",
+                "location": "Church",
+                "speakers": [
+                  "Speaker Name 1", "Speaker Name 2", "Speaker Name 3"
+                ],
+                "description": "Lorem ipsum Non do sed dolor Ut nostrud adipisicing sit reprehenderit eu id tempor nostrud in id ex aute pariatur nostrud in.",
+                "website": "www.example.com"
+              }
+            ]
+          }
+
+        ]
+      }
+
+    ]
+  }

@@ -33,6 +33,9 @@ module.exports = function(grunt) {
     execute: {
       generate_artists: {
           src: ['artists/artists.js']
+      },
+      generate_schedule: {
+          src: ['schedule/schedule.js']
       }
     }
   });
@@ -46,7 +49,8 @@ module.exports = function(grunt) {
     [
       'sass:dev',
       'cssmin',
-      'execute:generate_artists'
+      'execute:generate_artists',
+      'execute:generate_schedule'
     ]
   );
 };
