@@ -1,5 +1,63 @@
 {"speakers":[
     {
+      "firstName":"Martina",
+      "lastName":"Menegon",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Martina Menegon (1988, Italy) is a new media artist, programmer and educator. Her work deals with the instability and ephemerality of the human body as well as the alienation from physicality in today’s digital age, questioning the gap between real and virtual, flesh and data. Since 2010 she also works together with Stefano D’Alessio creating interactive performances and installations. With a degree in Visual and Performing Art at IUAV University of Venice and in Transmedial Arts at The University for Applied Arts of Vienna, since 2010 she is teaching assistant of at the IUAV University, where she teaches multimedia tools for interactive arts with Klaus Obermaier, artist she regularly collaborates with as programmer and tech/artistic assistant. She is also lecturing at the Art University of Linz and at the University of Applied Art in Vienna. Martina Menegon currently lives and work in Vienna.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://martinamenegon.tumblr.com", "name":"martinamenegon.tumblr.com"}
+      ],
+      "social":[
+      ]
+    },
+    {
+      "firstName":"Laura",
+      "lastName":"Benitez Valero",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"Laura Benítez Valero is a teaching fellow, researcher and independent curator based in Barcelona. She holds a PhD in Philosophy, specialised in Bioart. Over the past six years she has worked as a teaching fellow and researcher, being a member of various R & D projects.  Currently she is developing a research project on bio-resistance, and has curated a seminar entitled Bio-resistance, Transversality and Emancipation on contestational practises and bio-hacking (MACBA, December 2015). Recently she has conducted the course Bioart. The Human Condition in the Contemporary Art as part of public programs of +HUMANS exhibition (CCCCB 2016). Her research is focused on disturbances, contestational practices and theories, where Ethics, Identity, Gender, Subjectivity or Politics, are understood as not pre-determined but always changing and unfolding. Considering that critical thinking_action helps to reveal, or at list to remember, the artificial boundaries that we forgot we invented it.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"https://laurabenitezvalero.com/", "name":"laurabenitezvalero.com"}
+      ],
+      "social":[
+      ]
+    },
+    {
       "firstName":"Marta",
       "lastName":"Di Francesco",
       "session":"",
@@ -251,21 +309,6 @@
           {
             "extension":"jpg",
             "caption":"BeAnotherLab has created a series of experiences for a variety of contexts, including conflict resolution, empathy, physical rehabilitation, art, and neuroscientific research.",
-            "credit":""
-          },
-          {
-            "extension":"jpg",
-            "caption":"The group uses technology in novel ways, seeing it as a means for social relations rather than social isolation.",
-            "credit":""
-          },
-          {
-            "extension":"jpg",
-            "caption":"Their work is developed under a human-centered protocol, working together with communities towards solving a particular problem.",
-            "credit":""
-          },
-          {
-            "extension":"jpg",
-            "caption":"The lab investigates under a model of distributed research and development, using low-budget digital technologies that can be reproduced, recreated and documented by the community.",
             "credit":""
           }
         ],
