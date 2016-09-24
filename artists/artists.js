@@ -28,7 +28,7 @@ for(i = 0; i<Math.round(j.speakers.length/2); i++){
 	var fullName = s.firstName + " " + s.lastName;
   if(s.lastName == "") fullName = s.firstName;
   console.log(i + ": " + fullName);
-	html += "          <div class=\"col-xs-12\">\n"
+	html += "          <div class=\"col-xs-12 col-md-6\">\n"
 	html += "            <h1 class=\"speaker-name\">" + fullName + "</h1>\n"
 	html += "          </div>\n"
 }

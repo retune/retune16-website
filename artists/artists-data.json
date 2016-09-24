@@ -1,4 +1,106 @@
 {"speakers":[
+  {
+    "firstName":"Susanne",
+    "lastName":"Marcus",
+    "session":"",
+    "theme":"# Creative Production",
+    "bio":"Susanne is part of the core team at Lofelt, a Berlin-based tech company that creates haptic technology for people who are passionate about sound and music.</p><p>In 2016, Lofelt debuted the Basslet, a wearable subwoofer for your body. The Basslet transfers bass frequencies directly to your body – so that you FEEL the music. The result is an augmented sound experience that headphones alone cannot provide.</p><p>Lofelt launched the Basslet via Kickstarter in summer 2016. With €600,000 raised and 4,500 units sold in only 33 days, the Basslet ranks in the top 5 most successful German Kickstarter projects of all time.",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"Susanne Marcus",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"Basslet",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"Basslet",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"Basslet",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"Basslet",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://lofelt.com", "name":"lofelt.com"}
+    ],
+    "social":[
+      {"url":"https://twitter.com/thebasslet", "name":"twitter.com/thebasslet"},
+      {"url":"https://facebook.com/basslet", "name":"facebook.com/basslet"},
+      {"url":"https://www.instagram.com/thebasslet", "name":"instagram.com/thebasslet"}
+    ]
+  },
+  {
+    "firstName":"Duguid & Perkins",
+    "lastName":"",
+    "session":"",
+    "theme":"# Exhibition",
+    "bio":"Troy Duguid is an Australian visual artist and game designer interested in exploring software as an artistic medium. Troy co-organises ąяţǥąʍ€$ - a community exploring the usage of game design/technology in the creation of experimental work.</p><p>Jack A Perkins is an engineer, artist and game designer interested in generative playful experiences. He believes that an obscured mystical experience is an important part of any game.",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.troyduguid.com", "name":"troyduguid.com"}
+    ],
+    "social":[
+      {"url":"https://twitter.com/freedom__mouse", "name":"twitter.com/freedom__mouse"},
+      {"url":"https://twitter.com/troyduguid", "name":"twitter.com/troyduguid"}
+    ]
+  },
+  {
+    "firstName":"BRAIN AG",
+    "lastName":"",
+    "session":"",
+    "theme":"# Networked Transplantations",
+    "bio":"\"Engineering Biology\" – BRAIN is rethinking biology. The technological use of biological processes reflects our core competence and philosophy.</p><p>BRAIN works on the realisation of a sustainable bio-based economy. Our task is the development of customised solutions based on natural biodiversity for successful applications in industry.</p><p>We are drawing inspiration from the microcosm for the macroworld. Knowing about biological structures and functions we are able to use processes and materials optimised by evolution for technological innovations.</p><p>Dr. Simon Seibert is Techplatform Coordinator and Project Manager at BRAIN.<br/>Bettina Schreiner is Art Director at BRAIN. ",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.brain-biotech.de", "name":"brain-biotech.de"}
+    ],
+    "social":[
+    ]
+  },
     {
       "firstName":"undev",
       "lastName":"",
@@ -33,6 +135,56 @@
       ],
       "social":[
         {"url":"https://twitter.com/un_dev", "name":"twitter.com/un_dev"}
+      ]
+    },
+    {
+      "firstName":"Roy",
+      "lastName":"Tzohar",
+      "session":"Interweaved Subjectivity",
+      "theme":"# beyond",
+      "bio":"Roy Tzohar specializes in the history of philosophy with a focus on Buddhist and Brahmanical philosophical traditions in India. He holds a PhD from the Religion Department at Columbia University (New York, 2011) and he currently teaches in the East Asian Studies Department at Tel Aviv University, and is part of a Research group at the Max Planck Institute for the History of Science, Berlin. His monograph on Buddhist philosophy of language \"Meaning in the World and in Texts: A Buddhist Theory of Metaphor\" is forthcoming from Oxford University Press.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"https://english.tau.ac.il/profile/roytzo", "name":"english.tau.ac.il/profile/roytzo"}
+      ],
+      "social":[
+
+      ]
+    },
+    {
+      "firstName":"Marti",
+      "lastName":"Guillem",
+      "session":"",
+      "theme":"# Performance",
+      "bio":"Born in Valencia in 1983, curretly living in Berlin. Heterodox artist. Ephemeral proposals. Characterized by a fresh and changing language.</p><p>Marti seems convinced that 'the mystery' is before us, and he shows to us. His creative discoveries tell us in some way, that 'we can start from here something that will take us very far. When he wants is an irreverent educated and / or make beautiful things and / or show you the beauty of what others call 'ugly'. The pleasure he experiences is perceived and feels almost like an act of generosity that invites you to attend. Marti is one of those artists who in their artistic approach is much of the message. He is the surprise.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://marti-net.blogspot.com", "name":"marti-net.blogspot.com"}
+      ],
+      "social":[
+        {"url":"https://www.facebook.com/marti.guillem.9", "name":"facebook.com/marti.guillem.9"}
       ]
     },
     {
