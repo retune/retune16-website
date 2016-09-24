@@ -64,11 +64,12 @@ for(var speaker in j.speakers){
   var fullName = s.firstName + " " + s.lastName;
   if(s.lastName == "") fullName = s.firstName;
 	var fullNameDashed = fullName.replace(/ /g, "-");
+  fullNameDashed = fullNameDashed.split('&').join(''); // get rid of '&' signs
 
 	html += "<div id=\"" + fullNameDashed + "-detail\" class=\"col-xs-12 speaker-card\">\n"
 	html +=	"		<div class=\"row\">\n";
 	html += "			<div class=\"col-xs-12 col-md-6 speaker-info\">\n";
-	html += "				<h1>" + s.firstName + " " + s.lastName + "</h1>\n";
+	html += "				<h1>" + fullName + "</h1>\n";
 	html += "				<p>" + s.session + "</p>\n";
   html += "				<p>" + s.theme + "</p>\n";
   html += "				<div id=\"" + fullNameDashed + "-gallery\" class=\"gallery\">\n";
@@ -120,7 +121,7 @@ for(var speaker in j.speakers){
 
 html += footer;
 
-fs.writeFile("artists/index.html", html, function(err) {
+fs.writeFile("index.html", html, function(err) {
     if(err) {
         return console.log(err);
     }
