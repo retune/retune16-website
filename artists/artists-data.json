@@ -1,5 +1,291 @@
 {"speakers":[
     {
+      "firstName":"undev",
+      "lastName":"",
+      "session":"",
+      "theme":"# Immersed Narratives",
+      "bio":"Thomas Kombüchen and Tim Pulver are part of undev, a Berlin based studio for interactive realtime graphics and data-visualizations. Besides client-projects they develop cables – a node-based visual-programming editor for WebGL, Web Audio and WebVR, that is the foundation for most recent projects.</p><p>Thomas is co-founder of undev, a passionate coder and main developer of cables. 15 years ago, he started programming OpenGL graphics and loves WebGl for bringing powerful realtime graphics to the browser. He won several international realtime coding competitions - so called demoparties. Together with various other artists he also did various interactive installations transforming human body movement to abstract shapes.</p><p>Tim recently graduated from the University of Applied Sciences Potsdam with a Bachelor of Arts in Interfacedesign. He worked on projects doing generative jewelry, immersive realtime-datavisualizations and experimental physical interaction design prototypes. Tim also has a strong affection for music and runs the netlabel Yarn Audio.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"Thomas Kombüchen",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"Tim Pulver",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"https://cables.gl", "name":"cables.gl"},
+        {"url":"https://undev.de", "name":"undev.de"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/un_dev", "name":"twitter.com/un_dev"}
+      ]
+    },
+    {
+      "firstName":"Luba",
+      "lastName":"Elliott",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Luba Elliott is a creative producer, artist and researcher exploring the role of artificial intelligence in the creative industries. Trained as a human-centered designer and linguist, she has worked on several projects bridging the gap between the traditional art world and the latest technological innovations. She is currently working to educate and engage the broader public about the latest developments in creative AI.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://elluba.com/", "name":"elluba.com/"}
+      ],
+      "social":[
+          {"url":"https://twitter.com/elluba,", "name": "twitter.com/elluba,"},
+          {"url":"https://www.instagram.com/elluba/", "name": "instagram.com/elluba"},
+          {"url":"https://www.facebook.com/luba.elliott", "name": "facebook.com/luba.elliott"},
+          {"url":"https://www.linkedin.com/in/lubaelliott", "name":"linkedin.com/in/lubaelliott"}
+      ]
+    },
+    {
+      "firstName":"Verhage &",
+      "lastName":"Rombout",
+      "session":"",
+      "theme":"",
+      "bio":"Creative Coding Amsterdam is a community of people interested in all creative aspects of computer programming. It is a place to meet for beginners as well as advanced users, for professionals as well as people coding just for fun. We organize informal events where you can meet up with other creative coding enthusiasts, show your work, learn about their work and create new work together on the fly.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"creativecodingamsterdam.com", "name":"creativecodingamsterdam.com"}
+      ],
+      "social":[
+          {"url":"https://twitter.com/CC_Amsterdam", "name": "twitter.com/CC_Amsterdam"},
+          {"url":"https://www.facebook.com/CreativeCodingAmsterdam", "name": "facebook.com/CreativeCodingAmsterdam"},
+         {"url":"http://www.meetup.com/Creative-Coding-Amsterdam/", "name":"meetup.com/Creative-Coding-Amsterdam/"}
+      ]
+    },
+    {
+      "firstName":"Jan-Peter",
+      "lastName":"Kuntoff",
+      "session":"",
+      "theme":"# Creative Production",
+      "bio":"Tech-Tinker-Guru at Nerdindustries in Hamburg. Nerdindustries is an interactive innovation agency. A commercial hacker space creating innovative products and communication.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"nerdindustries.com", "name":"nerdindustries.com"}
+      ],
+      "social":[
+          {"url":"https://twitter.com/nerdindustries", "name": "twitter.com/nerdindustries"},
+          {"url":"https://www.facebook.com/nerdindustries/", "name": "facebook.com/nerdindustries/"},
+          {"url":"https://vimeo.com/nerdindustries", "name": "vimeo.com/nerdindustries"},
+         {"url":"https://www.instagram.com/nerdindustries/", "name":"instagram.com/nerdindustries/"}
+      ]
+    },
+    {
+      "firstName":"Badaboom",
+      "lastName":"Berlin",
+      "session":"",
+      "theme":"",
+      "bio":"Badaboom Berlin creates collective analog / digital installations. In 2013 Daniel Huber and Alessandro Maggioni started to research on the role of analog in a digital context and to find playful ways to involve the visitors in the creative process. Their interactive playgrounds bridge ages, cultures and diversity, offering an inclusive space to enjoy. They collaborate with museums, theaters, schools and festivals to offer expertise, aesthetic research and creative involvement.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"www.badaboom.berlin", "name":"badaboom.berlin"}
+      ],
+      "social":[
+          {"url":"https://twitter.com/badaboomberlin", "name": "twitter.com/badaboomberlin"},
+          {"url":"https://www.instagram.com/badaboomberlin/", "name": "instagram.com/badaboomberlin"},
+          {"url":"https://www.facebook.com/badaboom.berlin/", "name": "facebook.com/badaboom.berlin"},
+         {"url":"https://vimeo.com/badaboomberlin", "name":"vimeo.com/badaboomberlin"}
+      ]
+    },
+    {
+      "firstName":"Peter",
+      "lastName":"Bihr",
+      "session":"",
+      "theme":"# Creative Production",
+      "bio":"Peter Bihr explores the impact of emerging technologies – especially Internet of Things (#iot). He founded The Waving Cat to help apply the insights through consulting, R&D, conferences and publications.</p><p>As a strategy advisor, he helps organizations large and small excel in an environment shaped by digitization, connectedness and rapid change. He has co-founded and chaired many acclaimed emerging technology conferences including ThingsCon, UIKonf and Cognitive Cities Conference, and served as co-chair of Interaction16. He also co-founded travel & souvenir magazine Dearsouvenir.</p><p>His projects, thoughts and other antics have been featured in Forbes, New York Times, The Guardian, WIRED, ZDF, ZEIT and many others. He was named a Top 100 Influencer in IoT in 2016 (Postscapes). He blogs at thewavingcat.com.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://thingscon.com", "name":"thingscon.com"}
+      ],
+      "social":[
+          {"url":"http://twitter.com/peterbihr", "name": "twitter.com/peterbihr"},
+         {"url":"http://twitter.com/thingscon", "name":"twitter.com/thingscon"}
+      ]
+    },
+    {
+      "firstName":"Robert B.",
+      "lastName":"Lisek",
+      "session":"",
+      "theme":"# Neuronal Creation",
+      "bio":"Robert B. Lisek is an artist, mathematician and composer who focuses on systems and processes (computational, biological, social). He is involved in the number of projects focused on radical art strategies, hacktivism and tactical media. Drawing upon conceptual art, software art and meta-media, his work intentionally defies categorization. Lisek is a pioneer of art based on AI and bioinformatics. Lisek is also a composer of contemporary music, author of many projects and scores on the intersection of spectral, stochastic, concret music, musica futurista and noise.</p><p>Lisek is also a scientist who conducts a research in the area of foundations of mathematics and computer science. His research interests are theory of ordered sets, logic, algebra, category theory in relation with artificial intelligence and machine learning.<p>Lisek is a founder of Institute for Research in Science and Art, Fundamental Research Lab and ACCESS Art Symposium.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://fundamental.art.pl/", "name":"fundamental.art.pl"}
+      ],
+      "social":[
+        {"url":"https://www.facebook.com/robert.lisek", "name":"facebook.com/robert.lisek"}
+      ]
+    },
+
+    {
+      "firstName":"Jaeho",
+      "lastName":"Hwang",
+      "session":"",
+      "theme":"# Performance",
+      "bio":"Jaeho Hwang has been creating comprehensive digital art pieces including audio-visual art, moving image and animation. Most of his personal practice is at the junction of sound and visual art, experimenting the relationship between music and image by using advanced technology. He attempts to establish audio-visual language during the performance by merging visual art and musical composition. He has been doing his audio-visual live performance in London and other cities in Europe.Jaeho, London-based artist, originally from South Korea. ",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.jaeho-hwang.com", "name":"jaeho-hwang.com"}
+      ],
+      "social":[
+         {"url":"https://twitter.com/hfutura", "name":"twitter.com/hfutura"},
+        {"url":"http://www.instagram.com/hfutura", "name":"instagram.com/hfutura"},
+        {"url":"https://www.facebook.com/jaehoart", "name":"facebook.com/jaehoart"}
+      ]
+    },
+    {
       "firstName":"Martina",
       "lastName":"Menegon",
       "session":"",
@@ -34,12 +320,27 @@
       ]
     },
     {
-      "firstName":"Laura",
-      "lastName":"Benitez Valero",
+      "firstName":"Schwittlick &",
+      "lastName":"Soleymani",
       "session":"",
-      "theme":"# Networked Transplantations",
-      "bio":"Laura Benítez Valero is a teaching fellow, researcher and independent curator based in Barcelona. She holds a PhD in Philosophy, specialised in Bioart. Over the past six years she has worked as a teaching fellow and researcher, being a member of various R & D projects.  Currently she is developing a research project on bio-resistance, and has curated a seminar entitled Bio-resistance, Transversality and Emancipation on contestational practises and bio-hacking (MACBA, December 2015). Recently she has conducted the course Bioart. The Human Condition in the Contemporary Art as part of public programs of +HUMANS exhibition (CCCCB 2016). Her research is focused on disturbances, contestational practices and theories, where Ethics, Identity, Gender, Subjectivity or Politics, are understood as not pre-determined but always changing and unfolding. Considering that critical thinking_action helps to reveal, or at list to remember, the artificial boundaries that we forgot we invented it.",
+      "theme":"# Neuronal Creation",
+      "bio":"We are creating a situation where visitors can explore the history of the conceptual ideas which made us develop the installation that can be perceived within the installation itself. The speculative writing about topics like artificial intelligence, digital aesthetics, conceptual art, post internet theories in the context of contemporary philosophy of these authors has been a major influence and inspiration for the creation of this piece. Since the historical background of what lead to the current situation of technological art is often neglected, this installation tries to bring back this aspect. We are context-engineering around and within these writers, generating insights and background to these topics in a non-linear fashion by provoking dialogues that are mainly monologues of the visitors with themselves. A mixture of self-revelation, humorous anecdotes and pretty astonishing computer generated theories.",
       "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
           {
             "extension":"jpg",
             "caption":"",
@@ -52,9 +353,14 @@
           }
         ],
       "websites":[
-        {"url":"https://laurabenitezvalero.com/", "name":"laurabenitezvalero.com"}
+        {"url":"http://mrzl.net/", "name":"mrzl.net"},
+        {"url":"http://diskordier.net/", "name":"diskordier.net"}
       ],
       "social":[
+        {"url":"https://twitter.com/marselc", "name":"twitter.com/marselc"},
+        {"url":"https://twitter.com/ramin__", "name":"twitter.com/ramin__"},
+        {"url":"https://www.instagram.com/marzzzel/", "name": "instagram.com/marzzzel"},
+        {"url":"https://vimeo.com/mrzl", "name":"vimeo.com/mrzl"}
       ]
     },
     {
@@ -94,12 +400,11 @@
         {"url":"http://martadifrancesco.com/", "name":"martadifrancesco.com"}
       ],
       "social":[
-        {"url":"http://www.instagram.com/marta_di_francesco", "name":"instagram.com/marta_di_francesco"},
-        {"url":"https://twitter.com/CUCCURUCU", "name":"twitter.com/CUCCURUCU"},
-        {"url":"https://vimeo.com/mdfcreative", "name":"vimeo.com/mdfcreative"}
+      {"url":"https://twitter.com/CUCCURUCU", "name":"twitter.com/CUCCURUCU"},
+      {"url":"http://www.instagram.com/marta_di_francesco", "name":"instagram.com/marta_di_francesco"},
+      {"url":"https://vimeo.com/mdfcreative", "name":"vimeo.com/mdfcreative"}
       ]
     },
-
     {
       "firstName":"Ruohan",
       "lastName":"Wang",
@@ -147,14 +452,12 @@
         {"url":"http://www.ruohanwang.com", "name":"ruohanwang.com"}
       ],
       "social":[
-        {"url":"http://www.instagram.com/ruo_han_wang", "name":"instagram.com/ruo_han_wang"},
         {"url":"https://twitter.com/ruohanwang", "name":"twitter.com/ruohanwang"},
+        {"url":"http://www.instagram.com/ruo_han_wang", "name":"instagram.com/ruo_han_wang"},
         {"url":"https://www.facebook.com/ruohan.wang.88", "name":"facebook.com/ruohan.wang.88"},
         {"url":"https://vimeo.com/ruohanwang", "name":"vimeo.com/ruohanwang"}
       ]
     },
-
-
     {
       "firstName":"Justyna",
       "lastName":"Zubrycka",
@@ -230,8 +533,9 @@
         {"url":"http://www.theenemyishere.org", "name":"theenemyishere.org"}
       ],
       "social":[
-        {"url":"http://www.instagram.com/karimbenkhelifa", "name":"instagram.com/karimbenkhelifa"},
+
         {"url":"http://www.twitter.com/kbenk", "name":"twitter.com/kbenk"},
+        {"url":"http://www.instagram.com/karimbenkhelifa", "name":"instagram.com/karimbenkhelifa"},
         {"url":"http://www.facebook.com/zanziben", "name":"facebook.com/zanziben"}
       ]
     },
@@ -263,8 +567,8 @@
       ],
       "social":[
         {"url":"http://www.twitter.com/driesdepoorter", "name":"twitter.com/driesdepoorter"},
-        {"url":"http://www.facebook.com/depoorterdries", "name":"facebook.com/depoorterdries"},
         {"url":"http://www.instagram.com/driesdepoorter", "name":"instagram.com/driesdepoorter"},
+        {"url":"http://www.facebook.com/depoorterdries", "name":"facebook.com/depoorterdries"},
         {"url":"http://www.vimeo.com/driesdepoorter", "name":"vimeo.com/driesdepoorter"}
       ]
     },
@@ -468,8 +772,8 @@
       ],
       "social":[
         {"url":"https://twitter.com/quasimondo", "name":"twitter.com/quasimondo"},
-        {"url":"https://www.flickr.com/photos/quasimondo/", "name":"flickr.com/photos/quasimondo"},
-        {"url":"https://www.instagram.com/quasimondo", "name":"instagram.com/quasimondo"}
+        {"url":"https://www.instagram.com/quasimondo", "name":"instagram.com/quasimondo"},
+        {"url":"https://www.flickr.com/photos/quasimondo/", "name":"flickr.com/photos/quasimondo"}
       ]
     },
 
@@ -710,8 +1014,8 @@
         {"url":"http://marcodonnarumma.com/", "name":"marcodonnarumma.com"}
       ],
       "social":[
-        {"url":"https://facebook.com/marcodonnarumma.live", "name":"facebook.com/marcodonnarumma.live"},
         {"url":"https://twitter.com/marcodonnarumma", "name":"twitter.com/marcodonnarumma"},
+        {"url":"https://facebook.com/marcodonnarumma.live", "name":"facebook.com/marcodonnarumma.live"},
         {"url":"https://vimeo.com/marcodonnarumma/", "name":"vimeo.com/marcodonnarumma"},
         {"url":"https://www.researchgate.net/profile/Marco_Donnarumma", "name":"researchgate.net/profile/Marco_Donnarumma"}
       ]
@@ -792,8 +1096,8 @@
       ],
       "social":[
         {"url":"https://twitter.com/JKeep_art", "name":"twitter.com/JKeep_art"},
-        {"url":"https://www.youtube.com/user/jkpottery/videos", "name":"youtube.com/user/jkpottery"},
-        {"url":"https://www.facebook.com/JKeep.art", "name":"facebook.com/JKeep.art"}
+        {"url":"https://www.facebook.com/JKeep.art", "name":"facebook.com/JKeep.art"},
+        {"url":"https://www.youtube.com/user/jkpottery/videos", "name":"youtube.com/user/jkpottery"}
       ]
     },
     {
@@ -850,6 +1154,43 @@
     },
 
     {
+      "firstName":"Kasia",
+      "lastName":"Molga",
+      "session":"",
+      "theme":"# Networked Transplantations",
+      "bio":"Kasia Molga is a media artist, environmentalist, designer and creative coder, working on intersection of art, science, design and technology. She examines human perception and relationship with the planet/nature/environment in the increasingly technologically mediated world by exploring various aspects of transmitting and manifesting real time environmental and biological data. She is also a co-founder and principal investigator of an award winning interdisciplinary collective World Wilder Lab.</p><p>She has exhibited internationally and individually and together with World Wilder Lab she has  received international awards and accolades.</p><p>Prior to that Kasia has been a funding member of Open H2O (former Protei Collective), has lectured in many universities across UK and beyond,  and has worked as an UX Designer and Digital Art Director for many years. She holds MA in Interdisciplinary Design Studies (Central Saint Martin College of Arts and Design).</p><p>Erik Overmeire is a creative technologist, co-founder of World Wilder Lab and regular collaborator with Popkalab.",
+      "images":[
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          },
+          {
+            "extension":"jpg",
+            "caption":"",
+            "credit":""
+          }
+        ],
+      "websites":[
+        {"url":"http://www.kasiamolga.net", "name":"kasiamolga.net"},
+        {"url":"http://www.worldwilderlab.net", "name":"worldwilderlab.net"},
+        {"url":"http://www.humansensor.eu", "name":"humansensor.eu"}
+      ],
+      "social":[
+        {"url":"https://twitter.com/olygamy", "name":"twitter.com/olygamy"},
+        {"url":"https://instagram.com/kasiainstaexperiment", "name":"instagram.com/kasiainstaexperiment"},
+        {"url":"https://facebook.com/kasiamolga", "name":"facebook.com/kasiamolga"},
+        {"url":"https://flickr.com/olygamy", "name":"flickr.com/olygamy"},
+        {"url":"https://vimeo.com/olygamy", "name":"vimeo.com/olygamy"}
+      ]
+    },
+
+    {
       "firstName":"Gene",
       "lastName":"Kogan",
       "session":"",
@@ -883,6 +1224,4 @@
         {"url":"https://soundcloud.com/genekogan", "name":"soundcloud.com/genekogan"}
       ]
     }
-
-
 ]}
