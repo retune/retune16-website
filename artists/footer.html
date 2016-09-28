@@ -67,7 +67,7 @@
             var hash = $(this).attr('id').slice(0, -7);
 
             if (distance < 70 && distance > -100 && currentHash != hash) {
-              window.location.hash = (hash);
+              window.history.replaceState(undefined, undefined, '#' + hash);
               currentHash = hash;
             }
           });
