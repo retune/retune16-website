@@ -1,5 +1,31 @@
 {"speakers":[
-          {
+  {
+    "firstName":"Public Art Lab",
+    "lastName":"",
+    "session":"Digital Calligraffiti Workshop",
+    "theme":"",
+    "bio":"Public Art Lab (PAL) is a Berlin based platform of experts from the fields of urban planning, new media art and IT in Berlin, directed by curator Susa Pop. PAL realises networking urban art projects that catalyse artistic processes and public awareness in temporarily occupied urban settings. They encourage audiences to participate in the creative process and experience their daily environment from different perspectives. These projects aim at fostering community development, identity building and communication among the city inhabitants. ",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"Susa Pop, Managing Director of Public Art Lab",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Iva Arandjelović / Public Art Lab"
+        }
+      ],
+    "websites":[
+      {"url":"http://www.publicartlab-berlin.de", "name":"publicartlab-berlin.de"}
+    ],
+     "social":[
+      {"url":"https://twitter.com/Connect_Cities", "name":"twitter.com/Connect_Cities"},
+      {"url":"https://www.facebook.com/Public-Art-Lab-1600403153566454/", "name":"facebook.com/Public-Art-Lab"}
+    ]
+  },
+  {
     "firstName":"Heidtmann, Holiday & Woolmore",
     "lastName":"",
     "session":"Tycho",
