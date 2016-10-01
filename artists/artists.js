@@ -65,6 +65,7 @@ for(var speaker in j.speakers){
   if(s.lastName == "") fullName = s.firstName;
 	var fullNameDashed = fullName.replace(/ /g, "-");
   fullNameDashed = fullNameDashed.split('&').join(''); // get rid of '&' signs
+  fullNameDashed = fullNameDashed.split(',').join(''); // get rid of ',' signs
 
 	html += "<div id=\"" + fullNameDashed + "-detail\" class=\"col-xs-12 speaker-card\">\n"
 	html +=	"		<div class=\"row\">\n";

@@ -35,9 +35,8 @@
         $(".speaker-name").click(function() {
           var name = $(this).html();
           var idToScroll = '#' + name.split(' ').join('-');
-          console.log(idToScroll);
           idToScroll = idToScroll.split('&amp;').join(''); // remove '&' signs
-          console.log(idToScroll);
+          idToScroll = idToScroll.split(',').join(''); // remove ',' signs
           scrollToId(idToScroll);
         });
 

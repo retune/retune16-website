@@ -1,4 +1,324 @@
 {"speakers":[
+          {
+    "firstName":"Heidtmann, Holiday & Woolmore",
+    "lastName":"",
+    "session":"Tycho",
+    "theme":"# Exhibition",
+    "bio":"Thomas Heidtmann studied Fine Arts with an emphasis on painting. After this time, he devoted himself more to the creation of interactive installations and the research of participative art approaches at the intersection of arts, science, music, and technology.</p><p>Soma Holiday is a creative technologist interested in interactive sculptures that foster spontaneous human connection. He has a background in computer science and a predilection for geometry, laser cutters, and LEDs.</p><p>Jemma Woolmore's work spans AV performance, bespoke visual production and video installation. Her carefully crafted performances create spatial and textural landscapes, merging digital 3D design with hand-made sculptural objects to blur the boundaries between real and virtual.</p><p>They are co-founders and members of Lacuna Lab, a Berlin-based studio and collective focusing on the intersection of arts, science and technology.",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.thomasheidtmann.de", "name":"thomasheidtmann.de"},
+      {"url":"http://www.somaholiday.com", "name":"somaholiday.com"},
+      {"url":"http://www.jemthemisfit.com", "name":"jemthemisfit.com"}
+    ],
+     "social":[
+      {"url":"https://twitter.com/Th_Heidtmann", "name":"twitter.com/Th_Heidtmann"},
+      {"url":"https://www.facebook.com/thomasheidtmannstudio", "name":"facebook.com/thomasheidtmannstudio"},
+      {"url":"https://twitter.com/somahol", "name":"twitter.com/somahol"},
+      {"url":"https://twitter.com/JEMTHEMISFIT,", "name":"twitter.com/JEMTHEMISFIT"},
+      {"url":"https://www.facebook.com/Jem-the-Misfit-262325350463947o", "name":"facebook.com/Jem-the-Misfit"}
+    ]
+  },
+  {
+    "firstName":"Gabriela",
+    "lastName":"Prochazka",
+    "session":"HERZ",
+    "theme":"# Performance",
+    "bio":"Interested in creating new types of experiences and realities that might come up during audiovisual performances as she is exploring boundaries and intersections of stage design, light design, installation art, audio visual & theatre performances. Currently enrolled at the final year of Master studies of Digital Media studio on Faculty of Arts and Design J. E. Purkyne.</p><p>Completed projects: underwater light installation for Signal Festival of Lights, light sculptures for VOSTO5 and Theatre Archa Prague, interactive light installation for performance of bionic pop artist Viktoria Modesta during MTF Berlin, light object in a fountain for RGB Light Festival in Rome.",
+    "images":[
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.gabrielaprochazka.com", "name":"gabrielaprochazka.com"}
+    ],
+    "social":[
+      {"url":"https://www.instagram.com/gabriela_prochazka/", "name":"instagram.com/gabriela_prochazka/"}
+    ]
+  },
+     {
+    "firstName":"Mischa",
+    "lastName":"Daams",
+    "session":"",
+    "theme":"# Neuronal Creation",
+    "bio":"Mischa Daams [1986, NL] is inspired by the all-encompassing rhythms and feedback loops that give direction to universal forms and behaviors all around us and in us: Living and non-living forms of nature, our biological bodies, our conscious brain and the technologies that adapt better everyday, are governed by similar rules. His artistic practice consists of experiential environments, performances and films in which such rules form the basis for choreographies that convey complex behavioral patterns in kinetic motion, moving images, light and sound. After a BA in Multimedia Design, in 2013 Daams finished his MA ArtScience in the ArtScience Interfaculty, at the Royal Academy of Arts and the Royal Conservatoire in The Hague.",
+    "images":[
+         {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.mischadaams.nl", "name":"mischadaams.nl"}
+    ],
+    "social":[
+      {"url":"https://www.facebook.com/mischa.daams", "name":"facebook.com/mischa.daams"},
+      {"url":"https://vimeo.com/mischadaams", "name":"vimeo.com/mischadaams"}
+    ]
+  },
+   {
+    "firstName":"Doron",
+    "lastName":"Sadja",
+    "session":"",
+    "theme":"# Creative Production",
+    "bio":"Doron Sadja is an American artist, composer, and curator whose work explores modes of perception and the experience of sound, light, and space. Often working with multichannel spatialized sound, smoke machines, and high intensity lights, Sadja combines pristine electronics with lush romantic synthesizers, dense noise, and immersive light projections to create hyper-emotive sonic architecture.  Although each of Sadja's works are striking in their singular and focused approach, his output is diverse: spanning everything from 25 speaker sound works to stroboscopic smoke and light shows, 360 degree projection pieces, and custom built motorized speaker systems that can precisely track sound around a room.  Sadja founded Shinkoyo Records and the West Nile performance space in Brooklyn (RIP), and currently runs the Sound Portraits lecture/listening series in Berlin.",
+    "images":[
+
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.doron.sadja.com", "name":"doron.sadja.com"}
+    ],
+    "social":[
+    ]
+  },
+  {
+    "firstName":"Quadrature",
+    "lastName":"",
+    "session":"",
+    "theme":"# Performance",
+    "bio":"Quadrature is a collective for arts, light and robotics.</p><p>The emphasis of our work is on the intersection of the physical and digital worlds, often based on research or concepts from realm of science. The three members Jan Bernstein, Juliane Götz and Sebastian Neitsch met 12 years ago at the Kunsthochschule Burg Giebichenstein in Halle/Saale, Germany. Six years ago the first collaboration resulted in the wish to join forces and formulate a common artistic practice. Since 2012 all three members of Quadrature finally live and work in Berlin.</p><p>They all share a love for machines and outer space.",
+    "images":[
+         {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Florian Voggeneder"
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Florian Voggeneder"
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Florian Voggeneder"
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://quadrature.co/", "name":"quadrature.co/"}
+    ],
+    "social":[
+      {"url":"https://www.facebook.com/Quadrature-313365302187805/", "name":"facebook.com/Quadrature"}
+    ]
+  },
+  {
+    "firstName":"Matt",
+    "lastName":"Jones",
+    "session":"Sticky Fingers",
+    "theme":"# Creative Production",
+    "bio":"Matt 'Lunartik' Jones is a British born, Berlin based multi-media artist, painter, illustrator, curator, and character- and toy-designer, successfully blurring the lines between art and design. He is best known for his signature collectible toy 'Lunartik in a cup of Tea' and his ongoing work for Titan Toys collectibles.</p><p>With his focus on toy design, Matt's toy design endeavors culminated in 2006, when he combined two of his design concepts, 'Lunartik' and 'For the love of Tea', into his first original collectible toy, the 'Lunartik in a cup of Tea'. The fully self-produced, resin-cast collectible instantly captured the hearts of the international collectors community, and while Jones kept the figure's origin story (and its legs) steeped in tea-flavored mystery, its cute looks, big eyes and quintessential British quirkiness earned him a quickly growing fan base.",
+    "images":[
+         {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.lunartik.com/", "name":"lunartik.com/"},
+      {"url":"http://www.Plastik-surgery.com", "name":"plastik-surgery.com"}
+    ],
+    "social":[
+      {"url":"https://twitter.com/Lunartik", "name":"twitter.com/Lunartik"},
+      {"url":"https://www.facebook.com/lunartik/", "name":"facebook.com/lunartik/"},
+      {"url":"https://www.instagram.com/lunartikjones/", "name":"instagram.com/lunartikjones/"}
+    ]
+  },
+  {
+    "firstName":"Brendan",
+    "lastName":"Shelper",
+    "session":"Sustainable funding for Creators",
+    "theme":"# Creative Production",
+    "bio":"Brendan Shelper is currently the director of battleROYAL GmbH, a creative productions firm based in Berlin specializing in breath-taking live performances and event shows.</p><p>During his diverse career Brendan has worked on some of the largest international event productions worldwide with one of his most recent major works being labeled 'Olympic Standard'.</p><p>Early in his career Brendan worked with acclaimed performance companies and toured the world. A healthy mix of award winning dance-theatre productions and extraordinary event shows provided him with a rare blend of disciplines and creation techniques. At the young age of 23, Brendan co-wrote/ co-directed the Grand Opening of Esplanade 'Theatres on the Bay' Singapore in 2002. He assisted the development and choreography of the Opening Ceremony for the Sydney 2000 Olympic Games, and in 2006 he coordinated the feature artists for the record breaking opening and closing ceremonies of the Asian Games in Doha Qatar.",
+    "images":[
+
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Stephane Le Breton"
+        },
+        {
+          "extension":"jpg",
+          "caption":" ",
+          "credit":"Ralf Rühmeier"
+        }
+      ],
+    "websites":[
+      {"url":"www.battleroyal.berlin", "name":"battleroyal.berlin"}
+    ],
+    "social":[
+      {"url":"https://www.instagram.com/battleroyal.berlin/", "name":"instagram.com/battleroyal.berlin/"}
+    ]
+  },
+  {
+    "firstName":"Peter",
+    "lastName":"Harris",
+    "session":"Exploring the Resonate Platform",
+    "theme":"# Creative Production",
+    "bio":"As a web developer since the 90's Peter has built hundreds of sites across dozens of industries. From 1999 to 2004 he worked as Art Director for McCartney Multimedia in Los Angeles, collaborating with numerous musicians from struggling artists to mid-level bands and platinum-selling superstars.  As the Napster crisis unfolded in the early 2000's, the hot topic on everyone's lips was how the internet would eventually liberate artists. A promise yet to be fulfilled until now.</p><p>Simultaneous to his day job as web developer, Peter also experimented as a DJ and electronica producer, using virtually every web and music publishing platform available. Finding them all lacking, this combination of background and insight is what led to the fundamental features to be offered via Resonate.</p><p>Beyond Resonate, Peter is actively contributing to groups and initiatives seeking to create a blockchain-based standard for music metadata and licensing.",
+    "images":[
+         {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"png",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://resonate.is", "name":"resonate.is"}
+    ],
+    "social":[
+      {"url":"https://www.twitter.com/resonatecoop/", "name":"twitter.com/resonatecoop/"},
+      {"url":"https://www.facebook.com/resonatecoop/", "name":"facebook.com/resonatecoop/"},
+      {"url":"http://instagram.com/resonate_coop/", "name":"instagram.com/resonate_coop/"}
+    ]
+  },
+    {
+    "firstName":"Letters Are My Friends",
+    "lastName":"",
+    "session":"Crabclub Sunshine Calamari",
+    "theme":"# Creative Production",
+    "bio":"Letters Are My Friends is a concept store for typography and new technology, located in Berlin-Kreuzberg. A hybrid place where analogue and digital type meet with emerging technologies. They call it \"type 'n' tech\". They share an interdisciplinary, professional and innovative, yet often experimental design approach to services, developments and products related to typography, motion- and interaction design.</p><p>The studio is run by Bärbel Bold and was co-founded with Ingo Italic in 2011. Since they met in the 2000s, they share a common interest in media art, creative code, experimental design research, letterforms, moving images, vvvv and social interventions.</p><p>Be prepared for their latest pet: typographic robot speed crabs, which already showed at the Retune Studio Visit #10.",
+    "images":[
+         {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        },
+        {
+          "extension":"jpg",
+          "caption":"",
+          "credit":""
+        }
+      ],
+    "websites":[
+      {"url":"http://www.lettersaremyfriends.com/", "name":"lettersaremyfriends.com/"}
+    ],
+    "social":[
+      {"url":"https://twitter.com/ABCxberg", "name":"twitter.com/ABCxberg"},
+      {"url":"https://www.facebook.com/LettersAreMyFriends", "name":"facebook.com/LettersAreMyFriends"},
+      {"url":"https://www.instagram.com/lettersaremyfriends/", "name":"instagram.com/lettersaremyfriends/"}
+    ]
+  },
   {
     "firstName":"Susanne",
     "lastName":"Marcus",
@@ -305,7 +625,7 @@
       "lastName":"Berlin",
       "session":"",
       "theme":"# Immersed Narratives",
-      "bio":"Badaboom Berlin creates collective analog / digital installations. In 2013 Daniel Huber and Alessandro Maggioni started to research on the role of analog in a digital context and to find playful ways to involve the visitors in the creative process. Their interactive playgrounds bridge ages, cultures and diversity, offering an inclusive space to enjoy. They collaborate with museums, theaters, schools and festivals to offer expertise, aesthetic research and creative involvement.",
+      "bio":"Badaboom Berlin creates collective analog / digital installations. In 2013 Daniel Huber and Alessandro Maggioni started to research on the role of analog media in a digital context and to find playful ways to involve the visitors in the creative process. Their interactive playgrounds bridge ages, cultures and diversity, offering an inclusive space to enjoy. They collaborate with museums, theaters, schools and festivals to offer expertise, aesthetic research and creative involvement.",
       "images":[
           {
             "extension":"jpg",
@@ -1444,8 +1764,8 @@
     },
 
     {
-      "firstName":"Kasia",
-      "lastName":"Molga",
+      "firstName":"Molga & Overmeire",
+      "lastName":"",
       "session":"",
       "theme":"# Networked Transplantations",
       "bio":"Kasia Molga is a media artist, environmentalist, designer and creative coder, working on intersection of art, science, design and technology. She examines human perception and relationship with the planet/nature/environment in the increasingly technologically mediated world by exploring various aspects of transmitting and manifesting real time environmental and biological data. She is also a co-founder and principal investigator of an award winning interdisciplinary collective World Wilder Lab.</p><p>She has exhibited internationally and individually and together with World Wilder Lab she has  received international awards and accolades.</p><p>Prior to that Kasia has been a funding member of Open H2O (former Protei Collective), has lectured in many universities across UK and beyond,  and has worked as an UX Designer and Digital Art Director for many years. She holds MA in Interdisciplinary Design Studies (Central Saint Martin College of Arts and Design).</p><p>Erik Overmeire is a creative technologist, co-founder of World Wilder Lab and regular collaborator with Popkalab.",
